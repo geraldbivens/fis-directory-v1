@@ -1,3 +1,84 @@
-h1 {
-  color: red;
+body {
+  position: relative;
+  background-color: #f1ef90;
 }
+
+header {
+  margin: 1em 24px;
+}
+
+h1 {
+  color: #191c1f;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-size: 1.25em;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+}
+
+#page-wrap {
+  width: 960px;
+  margin: 0 24px;
+  padding: 0.5em 0 0.5em 8px;
+  background-color: #40748e;
+}
+
+.contact-card {
+  float: left;
+  /* width: 208px;
+  height: 208px; */
+  width: 216px;
+  height: 252px;
+  margin: 0 8px 0.5em 0;
+  padding: 0.5em 8px;
+  background-color: white;
+}
+
+h3 {
+  margin-bottom: 0.125em;
+  color: #f03105;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-size: 1.125em;
+}
+
+.website {
+  margin-bottom: 1em;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 0.8125em;
+  letter-spacing: 0.5px;
+}
+
+.website a {
+  color: #a8bf9c;
+  text-decoration: none;
+}
+
+.website a:hover {
+  color: #a54f45;
+}
+
+.contact-info-list {
+  margin-top: 0.5em;
+}
+
+.contact-info-list li {
+  margin-bottom: 0.5em;
+}
+
+.contact-info-list li a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: both;
+}
+
+.hide {
+  display: none;
+}
+
+/* #40748E
+#A8BF9C
+#F1EF90
+#F03105
+#A54F45 */
