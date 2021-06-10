@@ -1,6 +1,6 @@
 body {
   position: relative;
-  background-color: #f1ef90;
+  background-color: #f9f88e;
 }
 
 header {
@@ -8,7 +8,7 @@ header {
 }
 
 h1 {
-  color: #191c1f;
+  color: black;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   font-size: 1.25em;
   font-weight: 500;
@@ -20,13 +20,11 @@ h1 {
   width: 960px;
   margin: 0 24px;
   padding: 0.5em 0 0.5em 8px;
-  background-color: #40748e;
+  background-color: #457d96;
 }
 
 .contact-card {
   float: left;
-  /* width: 208px;
-  height: 208px; */
   width: 216px;
   height: 252px;
   margin: 0 8px 0.5em 0;
@@ -34,11 +32,13 @@ h1 {
   background-color: white;
 }
 
-h3 {
+h2 {
   margin-bottom: 0.125em;
-  color: #f03105;
+  color: #f82a03;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   font-size: 1.125em;
+  /* writing-mode: vertical-lr;
+  text-orientation: upright; */
 }
 
 .website {
@@ -49,12 +49,12 @@ h3 {
 }
 
 .website a {
-  color: #a8bf9c;
+  color: #5d8aa1;
   text-decoration: none;
 }
 
 .website a:hover {
-  color: #a54f45;
+  color: #6799b2;
 }
 
 .contact-info-list {
@@ -76,6 +76,12 @@ h3 {
 .hide {
   display: none;
 }
+
+/* #6799B2
+#5D8AA1
+#457D96
+#F9F88E
+#F82A03 */
 
 /* #40748E
 #A8BF9C

@@ -595,7 +595,7 @@ users.forEach(person => {
   const contactCard = document.createElement('div');
   contactCard.classList.add('contact-card');
 
-  const name = document.createElement('h3');
+  const name = document.createElement('h2');
   name.textContent = person.name;
 
   const website = document.createElement('p');
@@ -606,31 +606,31 @@ users.forEach(person => {
   const contactInfoList = document.createElement('ul');
   contactInfoList.classList.add('contact-info-list');
 
+  const email = document.createElement('li');
+  if (person.email === null) email.classList.add('hide');
+  email.innerHTML = `<a href="mailto: ${person.email}">
+          <img src="/images/email.png" width="20" height="20" title="Email" />
+        </a>`;
+
   const linkedin = document.createElement('li');
   if (person.linkedin === null) linkedin.classList.add('hide');
   linkedin.innerHTML = `<a href="${person.linkedin}" target="_blank" rel="noreferrer noopener">
-            <img src="/images/graphics/linkedin.png" width="20" height="20" title="LinkedIn" />
+            <img src="/images/linkedin.png" width="20" height="20" title="LinkedIn" />
           </a>`;
 
   const github = document.createElement('li');
   if (person.github === null) github.classList.add('hide');
   github.innerHTML = `<a href="${person.github}" target="_blank" rel="noreferrer noopener">
-            <img src="/images/graphics/github.png" width="20" height="20" title="GitHub" />
+            <img src="/images/github.png" width="20" height="20" title="GitHub" />
           </a>`;
 
   const medium = document.createElement('li');
   if (person.medium === null) medium.classList.add('hide');
   medium.innerHTML = `<a href="${person.medium}" target="_blank" rel="noreferrer noopener">
-            <img src="/images/graphics/medium.png" width="20" height="20" title="Medium" />
+            <img src="/images/medium.png" width="20" height="20" title="Medium" />
           </a>`;
 
-  const email = document.createElement('li');
-  if (person.email === null) email.classList.add('hide');
-  email.innerHTML = `<a href="mailto: ${person.email}">
-          <img src="/images/graphics/email.png" width="20" height="20" title="Email" />
-        </a>`;
-
-  contactInfoList.append(linkedin, github, medium, email);
+  contactInfoList.append(email, linkedin, github, medium);
 
   contactCard.append(name, website, contactInfoList);
 
