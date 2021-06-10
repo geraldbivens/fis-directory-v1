@@ -1,3 +1,18 @@
+@font-face {
+  font-family: AvenirLTStd-Book;
+  src: url(/assets/fonts/AvenirLTStd-Book);
+}
+
+@font-face {
+  font-family: AvenirLTStd-Medium;
+  src: url(/assets/fonts/AvenirLTStd-Medium.otf);
+}
+
+@font-face {
+  font-family: AvenirLTStd-Roman;
+  src: url(/assets/fonts/AvenirLTStd-Roman.otf);
+}
+
 body {
   position: relative;
   background-color: #457d96;
@@ -14,50 +29,48 @@ header {
 
 h1 {
   color: #191c1f;
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  font-size: 1.25em;
-  font-weight: 500;
+  font-family: AvenirLTStd-Medium;
+  font-size: 1em;
   letter-spacing: 0.5px;
   text-transform: uppercase;
 }
 
 #page-wrap {
   width: 960px;
-  margin: 4.25em 24px 0 24px;
+  margin: 4em 24px 0 24px;
   padding: 0.5em 0 0.5em 8px;
-  background-color: #191c1f;
+  background-color: #6799b2;
 }
 
 .contact-card {
   float: left;
-  width: 216px;
-  height: 252px;
+  width: 168px;
+  height: 210px;
   margin: 0 8px 0.5em 0;
   padding: 0.5em 8px;
   background-color: white;
 }
 
 h2 {
-  margin-bottom: 0.125em;
+  margin-bottom: 0.25em;
   color: #f82a03;
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  font-size: 1.125em;
+  font-family: AvenirLTStd-Book;
+  font-size: 0.9375em;
 }
 
 .website {
   margin-bottom: 1em;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 0.8125em;
-  letter-spacing: 0.5px;
+  font-family: AvenirLTStd-Book;
+  font-size: 0.75em;
 }
 
 .website a {
-  color: #575a5d;
+  color: #191c1f;
   text-decoration: none;
 }
 
 .website a:hover {
-  color: #f54029;
+  color: #f82a03;
 }
 
 .contact-info-list {
