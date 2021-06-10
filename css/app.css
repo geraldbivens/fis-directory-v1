@@ -1,14 +1,19 @@
 body {
   position: relative;
-  background-color: #f9f88e;
+  background-color: #457d96;
 }
 
 header {
-  margin: 1em 24px;
+  position: fixed;
+  top: 0.5em;
+  left: 0;
+  min-width: 100%;
+  padding: 0.5em 24px;
+  background-color: #f9f88e;
 }
 
 h1 {
-  color: black;
+  color: #191c1f;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   font-size: 1.25em;
   font-weight: 500;
@@ -18,9 +23,9 @@ h1 {
 
 #page-wrap {
   width: 960px;
-  margin: 0 24px;
+  margin: 4.25em 24px 0 24px;
   padding: 0.5em 0 0.5em 8px;
-  background-color: #457d96;
+  background-color: #191c1f;
 }
 
 .contact-card {
@@ -37,8 +42,6 @@ h2 {
   color: #f82a03;
   font-family: Avenir, Helvetica, Arial, sans-serif;
   font-size: 1.125em;
-  /* writing-mode: vertical-lr;
-  text-orientation: upright; */
 }
 
 .website {
@@ -49,12 +52,12 @@ h2 {
 }
 
 .website a {
-  color: #5d8aa1;
+  color: #575a5d;
   text-decoration: none;
 }
 
 .website a:hover {
-  color: #6799b2;
+  color: #f54029;
 }
 
 .contact-info-list {
