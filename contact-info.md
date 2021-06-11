@@ -99,7 +99,6 @@ yogi.sjv@gmail.com
 
 ## Only Spans 9/14/20 - 11/12/20
 
-Brook Beyene
 Joshua Blackham
 Bradley Calkins
 Jason Easterly
@@ -118,6 +117,7 @@ Kyle Trahan
 
 ## Illicit Syntax 10/26/20 - 2/18/21
 
+Brook Beyene
 Javaria Bracsom
 Alexander Gabriel
 Kevin Glasgow
@@ -131,30 +131,43 @@ Colter Ulrich
 ## Hip Hip Arrays 12/7/20 - 4/21/21
 
 Raz Al-Jaf
+Ryan Choe
 Gerald Bivens
 Ryan Choe
-Nate Croteau
-Kyle Davis
 Nathan Fedzen
 Sam Gold
 Jeff Golden
 Grant Hesketh
 Jack Hubert
-Mary Beth Ingram
 Kat Leight
 William Neal
 Brett Needham
 Obinna Nwabia
 Colton O'Connor
+Arielle Ross
 Luke Thinnes
 
 ## Juicy Functions 2/1/21
 
-Mell Bash
-Louis Leffler
+Mell Basham
+Nate Croteau
+Kyle Davis
+Jamon Dixon
+Chris Follen
+Nick Gray
+Nathan Gusky
+Phil Haines
+Tara Harwood
+Mary Beth Ingram
+Phong Lo
+Marissa Nolan
+Adam Nowland
 Marnie Robinson
 Reed Roffis
+Blake Runyon
+Diana Rybikov
 Alexander Sherwin
+Benton Westergaard
 Steven Yi
 
 ## Hackstreet Boiz 3/15/21
@@ -163,6 +176,7 @@ Steven Yi
 
 ## Misc
 
+Louis Leffler
 Derek Turner
 Cassandra Whitty
 {
