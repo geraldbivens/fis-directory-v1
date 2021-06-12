@@ -15,7 +15,8 @@
 
 body {
   position: relative;
-  background-color: #457d96;
+  /* background-color: #457d96; */
+  background-color: #40748e;
 }
 
 header {
@@ -24,7 +25,8 @@ header {
   left: 0;
   min-width: 100%;
   padding: 0.5em 24px;
-  background-color: #f9f88e;
+  /* background-color: #f9f88e; */
+  background-color: #f1ef90;
 }
 
 h1 {
@@ -39,7 +41,8 @@ h1 {
   width: 960px;
   margin: 4em 24px 0 24px;
   padding: 0.5em 0 0.5em 8px;
-  background-color: #6799b2;
+  /* background-color: #6799b2; */
+  background-color: #a8bf9c;
 }
 
 .contact-card {
