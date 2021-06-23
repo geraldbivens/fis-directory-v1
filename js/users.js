@@ -2,22 +2,20 @@
 
 export const users = [
   {
-    name: 'Raz Al-Jaf',
+    name: 'Raz Al-Jaf', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'razaljaf@gmail.com',
     github: 'https://github.com/ThatoneKurdishSE',
     linkedin: 'https://www.linkedin.com/in/razaljaf/',
     medium: 'https://razaljaf.medium.com/',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Ryan Anderson',
+    name: 'Ryan Anderson', // Notorious Git 7/9/20
     website: null,
     email: 'ryan.t.anderson19@gmail.com',
     github: null,
     linkedin: null,
     medium: null,
-    // cohort: 'Notorious Git 7/9/20',
   },
   {
     name: 'Thomas Bachorz',
@@ -28,25 +26,22 @@ export const users = [
     linkedin: 'https://www.linkedin.com/in/tjbachorz/',
     medium: 'https://tjbachorz.medium.com/',
     // twitter: 'https://twitter.com/ThomasBachorz',
-    // cohort: '',
   },
   {
-    name: 'Mell Basham',
+    name: 'Mell Basham', // Juicy Functions 5/13/21
     website: null,
     email: 'mellbasham@gmail.com',
     github: 'https://github.com/MellB0501',
     linkedin: 'https://www.linkedin.com/in/mell-basham',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Nyaradzo Bere',
+    name: 'Nyaradzo Bere', // Run Time Terrors
     website: null,
     email: 'nybe5598@colorado.edu',
     github: 'https://github.com/NyaradzoUBere',
     linkedin: 'https://www.linkedin.com/in/nyaradzo-bere/',
     medium: 'https://medium.com/@nyaradzobere',
-    // cohort: 'Run Time Terrors',
   },
   {
     name: 'Brook Beyene',
@@ -58,23 +53,21 @@ export const users = [
     medium: null,
   },
   {
-    name: 'Gerald Bivens',
+    name: 'Gerald Bivens', // Hip Hip Arrays 4/21/21
     // website: 'https://jamespeirce.com/',
     website: 'jamespeirce.com',
     email: 'geraldbivens@gmail.com',
     github: 'https://github.com/geraldbivens',
     linkedin: 'https://www.linkedin.com/in/gerald-bivens/',
     medium: 'https://medium.com/@geraldbivens',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Javaria Brascom',
+    name: 'Javaria Brascom', // Illicit Syntax
     website: null,
     email: 'javariab17@gmail.com',
     github: 'https://github.com/jay719',
     linkedin: 'https://www.linkedin.com/in/javaria-brascom-0510991bb/',
     medium: 'https://javariab17.medium.com/',
-    // cohort: 'Illicit Syntax',
   },
   {
     name: 'Bradley Calkins',
@@ -83,7 +76,6 @@ export const users = [
     github: 'https://github.com/bmcalkins',
     linkedin: 'https://www.linkedin.com/in/bradley-calkins/',
     medium: 'https://bradleycalkins.medium.com/',
-    // cohort: '',
   },
   {
     name: 'Damon Chivers',
@@ -95,24 +87,22 @@ export const users = [
     medium: null,
   },
   {
-    name: 'Ryan Choe',
+    name: 'Ryan Choe', // Hip Hip Arrays 4/21/21
     // website: 'https://ryanachoe.com/',
     website: 'ryanachoe.com',
     email: 'Ryan.Choe@outlook.com',
     github: 'https://github.com/rchoe1229',
     linkedin: 'https://www.linkedin.com/in/ryanchoe1229/',
     medium: 'https://chowderchoe.medium.com/',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Katie Clark',
+    name: 'Katie Clark', // Notorious Git 6/9/20
     // website: 'https://www.katielaelclark.me/',
     website: 'katielaelclark.me',
     email: 'kathrynlael@gmail.com',
     github: 'https://github.com/kathryn0908/',
     linkedin: 'https://www.linkedin.com/in/kathryn-clark-fullstackprogrammer/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
     name: 'Kyle Coberly',
@@ -123,6 +113,14 @@ export const users = [
     linkedin: 'https://www.linkedin.com/in/kylecoberly/',
     medium: 'https://medium.com/@kyle.coberly',
   },
+  {
+    name: 'Josh Couper',
+    website: null,
+    email: null,
+    github: null,
+    linkedin: 'https://www.linkedin.com/in/joshcouper/',
+    medium: null,
+  },
   // {
   //   name: 'Cristina Cristobal',
   //   website: null,
@@ -132,49 +130,52 @@ export const users = [
   //   medium: 'https://medium.com/@cristicristo',
   // },
   {
-    name: 'Nate Croteau',
+    name: 'Kelsey Creehan',
+    website: null,
+    email: 'kelseycreehan@gmail.com',
+    github: 'https://github.com/KelsCree',
+    linkedin: 'https://www.linkedin.com/in/kelsey-creehan/',
+    medium: null,
+  },
+  {
+    name: 'Nate Croteau', // Juicy Functions 5/13/21
     website: null,
     email: 'natekcroteau@gmail.com',
     github: 'https://github.com/natekcroteau',
     linkedin: 'https://www.linkedin.com/in/nate-croteau/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Mike De La Rosa',
+    name: 'Mike De La Rosa', // Notorious Git 6/9/20
     website: null,
     email: 'mdelarosa86@gmail.com',
     github: 'https://github.com/mdelarosa',
     linkedin: 'https://www.linkedin.com/in/mdelarosa/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
-    name: 'Kyle Davis',
+    name: 'Kyle Davis', // Juicy Functions 5/13/21
     website: null,
     email: 'davis.h.kyle@gmail.com',
     github: 'https://github.com/harland-davis',
     linkedin: 'https://www.linkedin.com/in/kyle-harland-davis',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Jamon Dixon',
+    name: 'Jamon Dixon', // Juicy Functions 5/13/21
     website: null,
     email: 'jamonadixon@gmail.com',
     github: 'https://github.com/Jamondixon',
     linkedin: 'https://www.linkedin.com/in/jamondixon/',
     medium: 'https://jamondixon.medium.com/',
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Hannah Drury',
+    name: 'Hannah Drury', // Notorious Git 6/9/20
     website: null,
     email: 'hannahdruryutd@gmail.com',
     github: 'https://github.com/wolf-dominion',
     linkedin: 'https://www.linkedin.com/in/hannah-drury/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
     name: 'Kristine Du',
@@ -183,43 +184,38 @@ export const users = [
     github: 'https://github.com/kadrianne',
     linkedin: 'https://www.linkedin.com/in/kristine-du/',
     medium: 'https://kristine-a-du.medium.com/',
-    // cohort: '',
   },
   {
-    name: 'Nolan Dyke',
-    website: null,
-    email: 'nolan.g.dyke@gmail.com',
-    github: null,
-    linkedin: 'https://www.linkedin.com/in/nolan-dyke/',
-    medium: null,
-    // cohort: 'Notorious Git 6/9/20',
-  },
-  {
-    name: 'Ben Dunn',
+    name: 'Ben Dunn', // Run Time Terrors
     website: null,
     email: 'benthedunn@gmail.com',
     github: 'https://github.com/btdunn',
     linkedin: 'https://www.linkedin.com/in/ben-dunn-15977b15b/',
     medium: 'https://benthedunn.medium.com/',
-    // cohort: 'Run Time Terrors',
   },
   {
-    name: 'Nathan Fedzen',
+    name: 'Nolan Dyke', // Notorious Git 6/9/20
+    website: null,
+    email: 'nolan.g.dyke@gmail.com',
+    github: null,
+    linkedin: 'https://www.linkedin.com/in/nolan-dyke/',
+    medium: null,
+  },
+  {
+    name: 'Nathan Fedzen', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'nathanfedzen@gmail.com',
     github: 'https://github.com/nfedzen',
     linkedin: 'https://www.linkedin.com/in/nathan-fedzen/',
     medium: null,
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'David Fertitta',
+    name: 'David Fertitta', // Notorious Git 6/9/20
     website: null,
     email: 'davidj.fertitta@gmail.com',
     github: null,
     linkedin: 'https://www.linkedin.com/in/david-fertitta-99298715b/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
     name: 'Brian Firooz',
@@ -231,7 +227,7 @@ export const users = [
     // twitter: 'https://twitter.com/brianfirooz',
   },
   {
-    name: 'Chris Follen',
+    name: 'Chris Follen', // Juicy Functions 5/13/21
     // website: 'www.chrisfollen.com',
     website: 'chrisfollen.com',
     email: 'christopher.follen@gmail.com',
@@ -239,7 +235,14 @@ export const users = [
     linkedin: 'https://www.linkedin.com/in/chrisfollen/',
     medium: null,
     // email: 'chris@chrisfollen.com',
-    // cohort: 'Juicy Functions 5/13/21',
+  },
+  {
+    name: 'Tyler Funk',
+    website: null,
+    email: null,
+    github: null,
+    linkedin: 'https://www.linkedin.com/in/tylerfunk/',
+    medium: null,
   },
   {
     name: 'Ahmed Gaber',
@@ -248,46 +251,41 @@ export const users = [
     github: 'https://github.com/LimitToInfinity',
     linkedin: 'https://www.linkedin.com/in/ahmedtgaber/',
     medium: 'https://medium.com/@21stlimitless',
-    // cohort: '',
   },
   {
-    name: 'Alexander Gabriel',
+    name: 'Alexander Gabriel', // Illicit Syntax
     website: null,
     email: 'alexandrgabe@gmail.com',
     github: 'https://github.com/kosmos02',
     linkedin: 'https://www.linkedin.com/in/alexander-m-gabriel/',
     medium: 'https://alexandermgabriel.medium.com/',
-    // cohort: 'Illicit Syntax',
   },
   {
-    name: 'James Giosmas',
+    name: 'James Giosmas', // Notorious Git 6/9/20
     website: null,
     email: 'giosmasj@gmail.com',
     github: 'https://github.com/giosmasj',
     linkedin: 'https://www.linkedin.com/in/james-giosmas/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
-    name: 'Kevin Glasgow',
+    name: 'Kevin Glasgow', // Illicit Syntax
     website: null,
     email: 'kglas001@gmail.com',
     github: 'https://github.com/TheRealKevBot',
     linkedin: 'https://www.linkedin.com/in/kevin-glasgow/',
     medium: 'https://real-kevbot.medium.com/',
-    // cohort: 'Illicit Syntax',
   },
   {
-    name: 'Sam Gold',
+    name: 'Sam Gold', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'samgolddev@gmail.com',
     github: 'https://github.com/sgold57',
     linkedin: 'https://www.linkedin.com/in/samgold57/',
     medium: null,
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Jeff Golden',
+    name: 'Jeff Golden', // Hip Hip Arrays 4/21/21
     // website: 'https://gjeffgolden.com/',
     website: 'gjeffgolden.com',
     email: 'codebygolden@gmail.com',
@@ -297,35 +295,31 @@ export const users = [
     // blogger: 'http://gjeffgolden.blogspot.com/',
     // twitter: 'https://twitter.com/GJeffGolden',
     // email: 'gjgolden08@gmail.com',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Nick Gray',
+    name: 'Nick Gray', // Juicy Functions 5/13/21
     website: null,
     email: 'nickgray87@gmail.com',
     github: 'https://github.com/nickgray06',
     linkedin: 'https://www.linkedin.com/in/nick-gray-06/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Lydia Gregory',
+    name: 'Lydia Gregory', // Notorious Git 6/9/20
     // website: 'https://lydiagregory.dev/',
     website: 'lydiagregory.dev',
     email: 'lydia.gregory.dev@gmail.com',
     github: 'https://github.com/ljg2gb',
     linkedin: 'https://www.linkedin.com/in/lydia-gregory/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
-    name: 'Nathan Gusky',
+    name: 'Nathan Gusky', // Juicy Functions 5/13/21
     website: null,
     email: 'nathangusky13@gmail.com',
     github: 'https://github.com/Guskyn13',
     linkedin: 'https://www.linkedin.com/in/nathankgusky/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
     name: 'Jennifer Grenier',
@@ -334,35 +328,31 @@ export const users = [
     github: 'https://github.com/JAGrenier',
     linkedin: 'https://www.linkedin.com/in/jagrenier/',
     medium: 'https://jagrenier.medium.com/',
-    // cohort: '',
   },
   {
-    name: 'Phil Haines',
+    name: 'Phil Haines', // Juicy Functions 5/13/21
     // website: 'https://www.philiphaines.com/',
     website: 'philiphaines.com',
     email: 'phil.haines92@gmail.com',
     github: 'https://github.com/philip-haines',
     linkedin: 'https://www.linkedin.com/in/philip-haines/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Tara Harwood',
+    name: 'Tara Harwood', // Juicy Functions 5/13/21
     website: null,
     email: 'tara.m.harwood@gmail.com',
     github: 'https://github.com/tara-m-harwood',
     linkedin: 'https://www.linkedin.com/in/taraharwood/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Grant Hesketh',
+    name: 'Grant Hesketh', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'ghesketh76@gmail.com',
     github: 'https://github.com/ghesketh76',
     linkedin: 'https://www.linkedin.com/in/granthesketh/',
     medium: 'https://ghesketh76.medium.com/',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
     name: 'John Higger',
@@ -371,38 +361,34 @@ export const users = [
     github: 'https://github.com/jjhiggz',
     linkedin: 'https://www.linkedin.com/in/jonathan-higger/',
     medium: 'https://medium.com/@jonathan.higger',
-    // cohort: '',
   },
   {
-    name: 'Jack Hubert',
+    name: 'Jack Hubert', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'jphubert93@gmail.com',
     github: 'https://github.com/hydroflux',
     linkedin: 'https://www.linkedin.com/in/jackhubert/',
     medium: null,
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Mary Beth Ingram',
+    name: 'Mary Beth Ingram', // Juicy Functions 5/13/21
     // website: 'https://www.marybethdev.com/',
     website: 'marybethdev.com',
     email: 'mbingramm@gmail.com',
     github: 'https://github.com/mbingram',
     linkedin: 'https://www.linkedin.com/in/mbingram',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Zachary Jacobs',
+    name: 'Zachary Jacobs', // Notorious Git 6/9/20
     website: null,
     email: 'zprogrammer@icloud.com',
     github: 'https://github.com/zprogrammer-code',
     linkedin: 'https://www.linkedin.com/in/zachary-jacobs-10b3351b5/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
-    name: 'Lisa Jung',
+    name: 'Lisa Jung', // Notorious Git 6/9/20
     website: null,
     email: 'lisahjung@gmail.com',
     github: null,
@@ -410,7 +396,6 @@ export const users = [
     medium: null,
     // dev: 'https://dev.to/lisahjung',
     // twitter: 'https://twitter.com/LisaHJung',
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
     name: 'Tiffany Kanjanabout',
@@ -419,35 +404,39 @@ export const users = [
     github: 'https://github.com/tiffanynk',
     linkedin: 'https://www.linkedin.com/in/tiffany-kanjanabout/',
     medium: 'https://tiffany-nit-k.medium.com/',
-    // cohort: '',
   },
   {
-    name: 'Tony Kim',
+    name: 'Haley Kelling',
+    website: null,
+    email: 'haley@kellings.com',
+    github: 'https://github.com/haleykelling',
+    linkin: 'https://www.linkedin.com/in/haley-kelling/',
+    medium: null,
+  },
+  {
+    name: 'Tony Kim', // Run Time Terrors
     // website: 'https://hjkmines.github.io/my-portfolio-website/',
     website: 'hjkmines.github.io/my-portfolio-website',
     email: 'hjkmines@gmail.com',
     github: 'https://github.com/hjkmines',
     linkedin: 'https://www.linkedin.com/in/hyung-kim/',
     medium: 'https://medium.com/@hjkmines',
-    // cohort: 'Run Time Terrors',
   },
   {
-    name: 'Austin Kohler',
+    name: 'Austin Kohler', // Notorious Git 6/9/20
     website: null,
     email: 'austinckohler@gmail.com',
     github: null,
     linkedin: null,
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
-    name: 'Allen Lea',
+    name: 'Allen Lea', // Illicit Syntax
     website: null,
     email: 'allenlea2007@gmail.com',
     github: 'https://github.com/Allen70',
     linkedin: 'https://www.linkedin.com/in/allen-r-lea/',
     medium: null,
-    // cohort: 'Illicit Syntax',
   },
   {
     name: 'Louis Leffler',
@@ -456,120 +445,107 @@ export const users = [
     github: 'https://github.com/1ouis1effler',
     linkedin: 'https://www.linkedin.com/in/louisleffler/',
     medium: null,
-    // cohort: '',
   },
   {
-    name: 'Kat Leight',
+    name: 'Kat Leight', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'leightkt@gmail.com',
     github: 'https://github.com/leightkt',
     linkedin: 'https://www.linkedin.com/in/kat-leight/',
     medium: 'https://kat-leight.medium.com/',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Phong Lo',
+    name: 'Phong Lo', // Juicy Functions 5/13/21
     website: null,
     email: 'phonglo724@gmail.com',
     github: 'https://github.com/phonglo724',
     linkedin: 'https://www.linkedin.com/in/phong-lo',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Matt Long',
+    name: 'Matt Long', // Run Time Terrors
     // website: 'https://matt-long.dev/',
     website: 'matt-long.dev',
     email: 'mdlong34@gmail.com',
     github: null,
     linkedin: 'https://www.linkedin.com/in/mattlong34/',
     medium: 'https://mattlong34.medium.com/',
-    // cohort: 'Run Time Terrors',
   },
   {
-    name: 'JT Lu',
+    name: 'JT Lu', // Notorious Git 6/9/20
     // website: 'https://jtlu.dev/',
     website: 'jtlu.dev',
     email: 'alohajt94@gmail.com',
     github: 'https://github.com/alohajt',
     linkedin: 'https://www.linkedin.com/in/jt-lu-68917394/',
     medium: 'https://medium.com/@alohajt94',
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
-    name: 'Denise Magner',
+    name: 'Denise Magner', // Notorious Git 6/9/20
     website: null,
     email: 'deerenae@gmail.com',
     github: 'https://github.com/deerenae',
     linkedin: 'https://www.linkedin.com/in/denise-magner/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
-    name: 'Michael Navoy',
+    name: 'Michael Navoy', // Run Time Terrors
     website: null,
     email: 'mnavoy4@gmail.com',
     github: 'https://github.com/mnavoy4',
     linkedin: 'https://www.linkedin.com/in/michael-navoy/',
     medium: 'https://medium.com/@mnavoy4',
-    // cohort: 'Run Tie Terrors',
   },
   {
-    name: 'William Neal',
+    name: 'William Neal', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'wln.develops@gmail.com',
     github: 'https://github.com/Jawnny5',
     linkedin: 'https://www.linkedin.com/in/william-neal1283/',
     medium: 'https://wln-develops.medium.com/',
     // william.neal83@gmail.com
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Brett Needham',
+    name: 'Brett Needham', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'brettneedham88@gmail.com',
     github: 'https://github.com/brettneedham88',
     linkedin: 'https://www.linkedin.com/in/brettneedham88/',
     medium: 'https://brettneedham88.medium.com/',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Marissa Nolan',
+    name: 'Marissa Nolan', // Juicy Functions 5/13/21
     website: null,
     email: 'ritz1484@cs.com',
     github: 'https://github.com/LittleRedButton7',
     linkedin: 'https://www.linkedin.com/in/marissanolan1/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Adam Nowland',
+    name: 'Adam Nowland', // Juicy Functions 5/13/21
     // website: 'https://www.adam-nowland.com/',
     website: 'adam-nowland.com',
     email: 'acnowland@gmail.com',
     github: 'https://github.com/acnowland',
     linkedin: 'https://www.linkedin.com/in/adam-nowland/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Obinna Nwabia',
+    name: 'Obinna Nwabia', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'valinevite@gmail.com',
     github: 'https://github.com/coremand',
     linkedin: 'https://www.linkedin.com/in/obinna-nwabia-3245b268/',
     medium: null,
-    // cohort: 'Hip Hip Arrays',
   },
   {
-    name: "Colton O'Connor",
+    name: "Colton O'Connor", // Hip Hip Arrays 4/21/21
     // website: 'https://coltonoconnor.com/',
     website: 'coltonoconnor.com',
     email: 'colton.shawn.oconnor@gmail.com',
     github: 'https://github.com/bigdumbbaby',
     linkedin: 'https://www.linkedin.com/in/colton-o-connor/',
     medium: 'https://colton-shawn-oconnor.medium.com/',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
     name: 'Bryan Oyloe',
@@ -579,7 +555,6 @@ export const users = [
     github: 'https://github.com/boyloe',
     linkedin: 'https://www.linkedin.com/in/bryan-oyloe/',
     medium: 'https://medium.com/@bryanoyloe',
-    // cohort: '',
   },
   {
     name: 'Kyle Peterson',
@@ -589,7 +564,6 @@ export const users = [
     github: 'https://github.com/kpete2017',
     linkedin: 'https://www.linkedin.com/in/kyle-petersen-27259b18b/',
     medium: null,
-    // cohort: '',
   },
   {
     name: 'Jessica Pope',
@@ -598,7 +572,6 @@ export const users = [
     github: 'https://github.com/JdPope',
     linkedin: 'https://www.linkedin.com/in/jessica-pope-77903033/',
     medium: null,
-    // cohort: '',
   },
   {
     name: 'Alison Quaglia',
@@ -608,17 +581,15 @@ export const users = [
     linkedin: 'https://www.linkedin.com/in/alison-quaglia/',
     medium: 'https://medium.com/@alison.quaglia',
     // codepen: 'https://codepen.io/hylobates-lar',
-    // cohort: '',
   },
   {
-    name: 'Hailey Ringier',
+    name: 'Hailey Ringier', // Run Time Terrors
     website: null,
     email: 'haileyringier@outlook.com',
     github: 'https://github.com/haileyringier',
     linkedin: 'https://www.linkedin.com/in/hailey-ringier/',
     medium: 'https://medium.com/@haileyringier',
     // youtube: 'https://www.youtube.com/channel/UCv8YpacxVgL9ShVduwb3Blg',
-    // cohort: 'Run Time Terrors',
   },
   // {
   //   name: 'Summer Rizzo',
@@ -630,51 +601,55 @@ export const users = [
   //   dev: 'https://dev.to/rizz0s',
   // },
   {
-    name: 'Marnie Robinson',
+    name: 'Marnie Robinson', // Juicy Functions 5/13/21
     website: null,
     email: 'marnielane@gmail.com',
     github: 'https://github.com/Marnielane',
     linkedin: 'https://www.linkedin.com/in/marnie-robinson/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Reed Roffis',
+    name: 'Reed Roffis', // Juicy Functions 5/13/21
     website: null,
     email: 'reedroffis18@gmail.com',
     github: 'https://github.com/reedroffis',
     linkedin: 'https://www.linkedin.com/in/reed-roffis-3a9261110/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Arielle Ross',
+    name: 'Arielle Ross', // Hip Hip Arrays 4/21/21
     // website: 'https://arielleross.com/',
     website: 'arielleross.com',
     email: 'arielle@arielleross.com',
     github: 'https://github.com/rel-ross',
     linkedin: 'https://www.linkedin.com/in/arielleross/',
     medium: 'https://arielle-10415.medium.com/',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Blake Runyon',
+    name: 'Blake Runyon', // Juicy Functions 5/13/21
     // website: 'https://kaylinanorton.com/',
     website: 'kaylinanorton.com',
     email: 'blakerunyon09@gmail.com',
     github: 'https://github.com/blakerunyon09',
     linkedin: 'https://www.linkedin.com/in/blakerunyon/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Diana Rybikov',
+    name: 'Diana Rybikov', // Juicy Functions 5/13/21
     website: null,
     email: 'diana.ryb214@gmail.com',
     github: 'https://github.com/dianarybikov',
     linkedin: 'https://www.linkedin.com/in/diana-rybikov-465018202/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
+  },
+  {
+    name: 'Justin Sabath',
+    // website: 'https://jsabath.github.io/',
+    website: 'jsabath.github.io',
+    email: 'justin.sabath.dev@gmail.com',
+    github: 'https://github.com/jsabath',
+    linkedin: 'https://www.linkedin.com/in/justinsabath/',
+    medium: null,
   },
   {
     name: 'Iuliia Saprykina',
@@ -684,26 +659,23 @@ export const users = [
     github: 'https://github.com/IuliiaSaprykina',
     linkedin: 'https://www.linkedin.com/in/iuliia-saprykina-ab3351100/',
     medium: 'https://iuliia-proskurnina.medium.com/',
-    // cohort: '',
   },
   {
-    name: 'Alexander Sherwin',
+    name: 'Alexander Sherwin', // Juicy Functions 5/13/21
     website: null,
     email: 'alx.sherwin@gmail.com',
     github: 'https://github.com/MomentaiBro',
     linkedin: 'https://www.linkedin.com/in/alexander-sherwin/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Daniel Steed',
+    name: 'Daniel Steed', // Notorious Git 6/9/20
     // website: 'https://danielsteed.com/',
     website: 'danielsteed.com',
     email: 'dsteed112@gmail.com',
     github: 'https://github.com/dsteed112',
     linkedin: 'https://www.linkedin.com/in/daniel-steed/',
     medium: 'https://medium.com/@dsteed112',
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
     name: 'Jared Stromberg',
@@ -712,20 +684,27 @@ export const users = [
     github: 'https://github.com/jstrombe19',
     linkedin: 'https://www.linkedin.com/in/jared-s-122690143/',
     medium: 'https://medium.com/@jaredstromberg',
-    // cohort: '',
   },
   {
-    name: 'Lucas Thinnes',
+    name: 'Lucas Thinnes', // Hip Hip Arrays 4/21/21
     // website: 'https://lucasthinnes.com/',
     website: 'lucasthinnes.com',
     email: 'lukethinnes@protonmail.com',
     github: 'https://github.com/lukethinnes',
     linkedin: 'https://www.linkedin.com/in/lucas-thinnes/',
     medium: 'https://lucasthinnes.medium.com/',
-    // cohort: 'Hip Hip Arrays 4/21/21',
   },
   {
-    name: 'Colter Ulrich',
+    name: 'Kyle Trahan',
+    // website: 'https://dev.to/ktrahan2',
+    website: 'dev.to/ktrahan2',
+    email: 'ktrahan2@gmail.com',
+    github: null,
+    linkedin: 'https://www.linkedin.com/in/kyletrahan/',
+    medium: null,
+  },
+  {
+    name: 'Colter Ulrich', // Illicit Syntax
     website: null,
     email: 'cju5025@gmail.com',
     github: 'https://github.com/cju5025',
@@ -733,34 +712,30 @@ export const users = [
     medium: 'https://cju5025.medium.com/',
     // instagram: 'https://www.instagram.com/colterulrich/',
     // soundcloud: 'https://soundcloud.com/colter-ulrich',
-    // cohort: 'Illicit Syntax',
   },
   {
-    name: 'Benton Westergaard',
+    name: 'Benton Westergaard', // Juicy Functions 5/13/21
     website: null,
     email: 'benton.westergaard@gmail.com',
     github: 'https://github.com/bwesterg',
     linkedin: 'https://www.linkedin.com/in/benton-westergaard/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
   {
-    name: 'Ashley Winters',
+    name: 'Ashley Winters', // Notorious Git 6/9/20
     website: null,
     email: 'ashbwinters@gmail.com',
     github: 'https://github.com/ashbwinters',
     linkedin: 'https://www.linkedin.com/in/ashley-winters/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
-    name: 'Blake Woodruff',
+    name: 'Blake Woodruff', // Notorious Git 6/9/20
     website: null,
     email: 'blakewoodruff4@gmail.com',
     github: 'https://github.com/Bwoodruff4',
     linkedin: 'https://www.linkedin.com/in/blakewoodruffengineer/',
     medium: null,
-    // cohort: 'Notorious Git 6/9/20',
   },
   {
     name: 'Angelo Xenakis',
@@ -773,12 +748,29 @@ export const users = [
     // dribble: 'https://dribbble.com/AngeloTheThird',
   },
   {
-    name: 'Steven Yi',
+    name: 'Steven Yi', // Juicy Functions 5/13/21
     website: null,
     email: 'stevenliuyi88@gmail.com',
     github: null,
     linkedin: 'https://www.linkedin.com/in/stevenliuyi/',
     medium: null,
-    // cohort: 'Juicy Functions 5/13/21',
   },
 ];
+
+// Cohorts
+// April 22, 2019 Git Dot Money
+// June 3, 2019 2b
+// July 15, 2019 11xers
+// August 26, 2019 Arrayliens
+// October 7, 2019 Hashketeers
+// November 19, 2019 Bits Please
+// January 6, 2020 Die Prying
+// February 17, 2020 JSON Derulo
+// March 30, 2020 Notorious Git
+// May 11, 2020 The Empryer Strikes Back
+// June 22, 2020 Run Time Terrors
+// August 3, 2020 Git Forked
+// September 14, 2020 Only Spans
+// October 26, 2020 Illicit Syntax
+// December 7, 2020 Hip Hip Array
+// February 1, 2021 Juicy Functions
