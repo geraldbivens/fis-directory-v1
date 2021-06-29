@@ -20,6 +20,14 @@ export const ST = [
     medium: 'https://iuliia-proskurnina.medium.com/',
   },
   {
+    name: 'JoAnn Siciliano', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'joannsiciliano.dev@gmail.com',
+    github: 'https://github.com/joannsiciliano/',
+    linkedin: 'https://www.linkedin.com/in/joannsiciliano/',
+    medium: null,
+  },
+  {
     name: 'Alexander Sherwin', // Juicy Functions 5/13/21
     website: null,
     email: 'alx.sherwin@gmail.com',

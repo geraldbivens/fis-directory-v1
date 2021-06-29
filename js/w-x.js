@@ -2,6 +2,14 @@
 
 export const WX = [
   {
+    name: 'Harley Warson', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'haleywarson@gmail.com',
+    github: 'https://github.com/haleywarson',
+    linkedin: 'https://www.linkedin.com/in/haleywarson/',
+    medium: null,
+  },
+  {
     name: 'Benton Westergaard', // Juicy Functions 5/13/21
     website: null,
     email: 'benton.westergaard@gmail.com',

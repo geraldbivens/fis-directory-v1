@@ -19,6 +19,14 @@ export const QR = [
     medium: 'https://medium.com/@haileyringier',
     // youtube: 'https://www.youtube.com/channel/UCv8YpacxVgL9ShVduwb3Blg',
   },
+  {
+    name: 'Meagan Ritchie', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'meaganritchie@gmail.com',
+    github: 'https://github.com/MeaganRitchie',
+    linkedin: 'https://www.linkedin.com/in/meagan-ritchie-tech/',
+    medium: null,
+  },
   // {
   //   name: 'Summer Rizzo',
   //   website: null,

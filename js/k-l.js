@@ -14,7 +14,15 @@ export const KL = [
     website: null,
     email: 'haley@kellings.com',
     github: 'https://github.com/haleykelling',
-    linkin: 'https://www.linkedin.com/in/haley-kelling/',
+    linkedin: 'https://www.linkedin.com/in/haley-kelling/',
+    medium: null,
+  },
+  {
+    name: 'Paige Kelly', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'paigekellydev@gmail.com',
+    github: 'https://github.com/pckellyco',
+    linkedin: 'https://www.linkedin.com/in/paige-kelly-denver/',
     medium: null,
   },
   {
@@ -40,6 +48,14 @@ export const KL = [
     email: 'allenlea2007@gmail.com',
     github: 'https://github.com/Allen70',
     linkedin: 'https://www.linkedin.com/in/allen-r-lea/',
+    medium: null,
+  },
+  {
+    name: 'Eric Lee', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'e.lee.at@gmail.com',
+    github: 'https://github.com/Kwayzaar',
+    linkedin: 'https://www.linkedin.com/in/ericmlee05/',
     medium: null,
   },
   {
@@ -83,5 +99,13 @@ export const KL = [
     github: 'https://github.com/alohajt',
     linkedin: 'https://www.linkedin.com/in/jt-lu-68917394/',
     medium: 'https://medium.com/@alohajt94',
+  },
+  {
+    name: 'Steven Ly', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'steven.ly0392@gmail.com',
+    github: 'https://github.com/stevenly03',
+    linkedin: 'https://www.linkedin.com/in/stevenly03/',
+    medium: null,
   },
 ];

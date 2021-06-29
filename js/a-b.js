@@ -62,6 +62,22 @@ export const AB = [
     medium: 'https://medium.com/@geraldbivens',
   },
   {
+    name: 'Joshua Blackham', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'BlackhamJoshua@comcast.net',
+    github: 'https://github.com/Jblack017',
+    linkedin: 'https://www.linkedin.com/in/blackham~joshua/',
+    medium: null,
+  },
+  {
+    name: 'Matt Bonebrake', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'mcbone1986@gmail.com',
+    github: 'https://github.com/mcbone1986',
+    linkedin: 'https://www.linkedin.com/in/matt-bonebrake/',
+    medium: null,
+  },
+  {
     name: 'Javaria Brascom', // Illicit Syntax
     website: null,
     email: 'javariab17@gmail.com',

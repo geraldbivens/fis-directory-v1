@@ -104,6 +104,14 @@ export const GH = [
     medium: null,
   },
   {
+    name: 'David Henderson', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'me@davidhenderson.tech',
+    github: 'https://github.com/notDavidHenderson',
+    linkedin: 'https://www.linkedin.com/in/davidhendersontech/',
+    medium: null,
+  },
+  {
     name: 'Grant Hesketh', // Hip Hip Arrays 4/21/21
     website: null,
     email: 'ghesketh76@gmail.com',
@@ -118,6 +126,14 @@ export const GH = [
     github: 'https://github.com/jjhiggz',
     linkedin: 'https://www.linkedin.com/in/jonathan-higger/',
     medium: 'https://medium.com/@jonathan.higger',
+  },
+  {
+    name: 'Jesse Houser', // Hackstreet {Boiz} 6/24/21
+    website: null,
+    email: 'jesseahouser@gmail.com',
+    github: 'https://github.com/jesseahouser',
+    linkedin: 'https://www.linkedin.com/in/jesseahouser/',
+    medium: null,
   },
   {
     name: 'Jack Hubert', // Hip Hip Arrays 4/21/21
