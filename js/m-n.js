@@ -2,6 +2,14 @@
 
 export const MN = [
   {
+    name: 'Daniel Madera',
+    website: null,
+    email: 'dmadera0@gmail.com',
+    github: 'https://github.com/dmadera0',
+    linkedin: 'https://www.linkedin.com/in/daniel-madera-925b4987/',
+    medium: null,
+  },
+  {
     name: 'Denise Magner', // Notorious Git 6/9/20
     website: null,
     email: 'deerenae@gmail.com',

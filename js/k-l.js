@@ -26,6 +26,14 @@ export const KL = [
     medium: null,
   },
   {
+    name: 'Shelley (Brook) Kershaw',
+    website: null,
+    email: 'sbrook13@gmail.com',
+    github: 'https://github.com/sbrook13',
+    linkedin: 'https://www.linkedin.com/in/sbrook13/',
+    medium: null,
+  },
+  {
     name: 'Tony Kim', // Run Time Terrors
     // website: 'https://hjkmines.github.io/my-portfolio-website/',
     website: 'hjkmines.github.io/my-portfolio-website',

@@ -18,6 +18,14 @@ export const GH = [
     medium: 'https://alexandermgabriel.medium.com/',
   },
   {
+    name: 'Luis Garcia',
+    website: null,
+    email: 'garciale308@gmail.com',
+    github: 'https://github.com/luies24',
+    linkedin: 'https://www.linkedin.com/in/garciale308/',
+    medium: null,
+  },
+  {
     name: 'James Giosmas', // Notorious Git 6/9/20
     website: null,
     email: 'giosmasj@gmail.com',

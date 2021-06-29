@@ -10,6 +10,15 @@ export const AB = [
     medium: 'https://razaljaf.medium.com/',
   },
   {
+    name: 'Victor Amigo',
+    // website: 'https://www.amigovictor.com/',
+    website: 'amigovictor.com',
+    email: 'amigo.victor.97@gmail.com',
+    github: 'https://github.com/vamigoya97',
+    linkedin: 'https://www.linkedin.com/in/victor-amigo/',
+    medium: null,
+  },
+  {
     name: 'Ryan Anderson', // Notorious Git 7/9/20
     website: null,
     email: 'ryan.t.anderson19@gmail.com',
@@ -21,7 +30,7 @@ export const AB = [
     name: 'Thomas Bachorz',
     // website: 'https://tjbachorz.live/',
     website: 'tjbachorz.live',
-    email: null,
+    email: 'tjbachorz@gmail.com',
     github: 'https://github.com/TJBachorz',
     linkedin: 'https://www.linkedin.com/in/tjbachorz/',
     medium: 'https://tjbachorz.medium.com/',

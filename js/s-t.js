@@ -45,6 +45,14 @@ export const ST = [
     medium: 'https://medium.com/@dsteed112',
   },
   {
+    name: 'Elliott Stein',
+    website: null,
+    email: 'estein1988@gmail.com',
+    github: 'https://github.com/estein1988',
+    linkedin: 'https://www.linkedin.com/in/steinelliott/',
+    medium: null,
+  },
+  {
     name: 'Jared Stromberg',
     website: null,
     email: null,
@@ -66,7 +74,7 @@ export const ST = [
     // website: 'https://dev.to/ktrahan2',
     website: 'dev.to/ktrahan2',
     email: 'ktrahan2@gmail.com',
-    github: null,
+    github: 'https://github.com/ktrahan2',
     linkedin: 'https://www.linkedin.com/in/kyletrahan/',
     medium: null,
   },

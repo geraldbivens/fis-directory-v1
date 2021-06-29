@@ -62,6 +62,14 @@ export const QR = [
     medium: 'https://arielle-10415.medium.com/',
   },
   {
+    name: 'Benjamin Rowe',
+    website: null,
+    email: 'browe495@gmail.com',
+    github: 'https://github.com/benjamin787/',
+    linkedin: 'https://www.linkedin.com/in/ben-rowe-tech/',
+    medium: null,
+  },
+  {
     name: 'Blake Runyon', // Juicy Functions 5/13/21
     // website: 'https://kaylinanorton.com/',
     website: 'kaylinanorton.com',

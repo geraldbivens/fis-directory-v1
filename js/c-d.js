@@ -10,6 +10,25 @@ export const CD = [
     medium: 'https://bradleycalkins.medium.com/',
   },
   {
+    name: 'Todd Carlson',
+    // website: 'https://toddcarlson.dev/',
+    website: 'toddcarlson.dev',
+    email: 'todd.carlson3030@me.com',
+    github: 'https://github.com/toddster79',
+    linkedin: 'https://www.linkedin.com/in/todd--carlson/',
+    medium: null,
+    // dev: 'https://dev.to/toddster79',
+  },
+  {
+    name: 'Adam Chernitsky',
+    // website: 'https://personal-portfolio-4e9da.firebaseapp.com/',
+    website: 'personal-portfolio-4e9da.firebaseapp.com',
+    email: 'adamlee2388@gmail.com',
+    github: 'https://github.com/adampaez88',
+    linkedin: 'https://www.linkedin.com/in/adam-chernitsky-157895144/',
+    medium: 'https://adamlee2388.medium.com/',
+  },
+  {
     name: 'Damon Chivers',
     // website: 'https://www.damonchivers.com/',
     website: 'damonchivers.com',
@@ -28,6 +47,14 @@ export const CD = [
     medium: 'https://chowderchoe.medium.com/',
   },
   {
+    name: 'Zack Claar',
+    website: null,
+    email: null,
+    github: 'https://github.com/yR-DEV',
+    linkedin: 'https://www.linkedin.com/in/zclaar/',
+    medium: 'https://medium.com/@yR.DEV',
+  },
+  {
     name: 'Katie Clark', // Notorious Git 6/9/20
     // website: 'https://www.katielaelclark.me/',
     website: 'katielaelclark.me',
@@ -44,6 +71,14 @@ export const CD = [
     github: 'https://github.com/kylecoberly',
     linkedin: 'https://www.linkedin.com/in/kylecoberly/',
     medium: 'https://medium.com/@kyle.coberly',
+  },
+  {
+    name: 'Terrell Cooper',
+    website: null,
+    email: 'terrellcoop@gmail.com',
+    github: 'https://github.com/Rellyrell55',
+    linkedin: 'https://www.linkedin.com/in/terrell-cooper-43252aaa/',
+    medium: null,
   },
   {
     name: 'Josh Couper',
@@ -86,12 +121,32 @@ export const CD = [
     medium: null,
   },
   {
+    name: 'Sarah Daniels',
+    // website: 'https://www.sarahdaniels.dev/',
+    website: 'sarahdaniels.dev',
+    email: 'sarahsakordaniels@gmail.com',
+    github: 'https://github.com/sarahsakordaniels',
+    linkedin: 'https://www.linkedin.com/in/sarahsakordaniels/',
+    medium: 'https://sarahsakordaniels.medium.com/',
+  },
+  {
     name: 'Kyle Davis', // Juicy Functions 5/13/21
     website: null,
     email: 'davis.h.kyle@gmail.com',
     github: 'https://github.com/harland-davis',
     linkedin: 'https://www.linkedin.com/in/kyle-harland-davis',
     medium: null,
+  },
+  {
+    name: 'AJ Diaz',
+    // website: 'https://ajdiaz.netlify.app/',
+    website: 'ajdiaz.netlify.app',
+    email: 'alexanderjessediaz@gmail.com',
+    github: 'https://github.com/alexanderjessediaz',
+    linkedin: 'https://www.linkedin.com/in/alexander-jesse-diaz/',
+    medium: 'https://alexanderjessediaz.medium.com/',
+    // twitter: 'https://twitter.com/Alexanderjdiazz',
+    // youtube: 'https://www.youtube.com/channel/UC5iqEUPgOwC-OxLCzFegVsA',
   },
   {
     name: 'Jamon Dixon', // Juicy Functions 5/13/21

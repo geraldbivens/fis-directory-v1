@@ -11,6 +11,14 @@ export const OP = [
     medium: 'https://colton-shawn-oconnor.medium.com/',
   },
   {
+    name: 'Jay Oliver',
+    website: null,
+    email: 'jaykamas@gmail.com',
+    github: 'https://github.com/Qwerter49',
+    linkedin: 'https://www.linkedin.com/in/jay-oliver-29678b1b4/',
+    medium: '',
+  },
+  {
     name: 'Bryan Oyloe',
     // website: 'https://bryanoyloe.com/',
     website: 'bryanoyloe.com',
