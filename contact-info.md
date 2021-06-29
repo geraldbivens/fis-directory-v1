@@ -2,19 +2,41 @@
 
 ## Cohorts
 
-11/18/19 Bits Please
-1/6/20 Die Prying
-2/17/20 JSON Derulo
-3/30/20 - 7/9/20 Notorious Git
-5/11/20 The Empryer Strikes Back
-6/22/20 - 10/1/20 Run Time Terrors
-8/3/20 - 11/12/20 Git Forked
-9/14/20 - 11/12/20 Only Spans
-10/26/20 - 2/18/21 Illicit Syntax
-12/7/20 - 4/21/21 Hip Hip Arrays
-2/1/21 Juicy Functions
-3/15/21 Hackstreet Boiz
-4/26/21 Team 404
+April 22, 2019 Git Dot Money
+June 3, 2019 2b
+July 15, 2019 11xers
+August 26, 2019 Arrayliens
+October 7, 2019 Hashketeers
+November 19, 2019 Bits Please
+January 6, 2020 Die Prying
+February 17, 2020 JSON Derulo
+March 30, 2020 Notorious Git
+May 11, 2020 The Empryer Strikes Back
+June 22, 2020 Run Time Terrors
+August 3, 2020 Git Forked
+September 14, 2020 Only Spans
+October 26, 2020 Illicit Syntax
+December 7, 2020 Hip Hip Array
+February 1, 2021 Juicy Functions
+March 15, 2021 Hackstreet Boiz
+April 26, 2021 Team 404
+June 7, 2021 New Friends
+
+Todd Carlson https://dev.to/toddster79
+Adam Chernitsky https://adamlee2388.medium.com/
+Zack Claar https://medium.com/@yR.DEV
+Sarah Daniels https://sarahsakordaniels.medium.com/
+AJ Diaz https://alexanderjessediaz.medium.com/
+Kari Ferenczy https://medium.com/@klferenczy
+Crystal Neal https://medium.com/@cdneal091
+William/Zach Pardee https://medium.com/@zachpardee
+Ben Reilly https://medium.com/@ibenthinkin
+Amanda Rogers https://medium.com/@aarodgerswork
+Kevin Ruggiero https://medium.com/@kevinbruggiero
+Jack Spyek https://medium.com/@jpsypek
+Jared Stromberg https://medium.com/@jaredstromberg
+Finn Thye https://finnthye.medium.com/
+Kendall Willard https://kendallsblog.home.blog/
 
 Rene Adrian Avila
 David Montoya
@@ -179,12 +201,9 @@ Steven Yi
 Louis Leffler
 Derek Turner
 Cassandra Whitty
-{
-name: 'Austin Burke',
-website: 'https://austinburke.dev/',
-website: 'austinburke.dev',
-linkedin: 'https://www.linkedin.com/in/austin-burke/',
-github: 'https://github.com/aburk3',
-medium: null,
-email: 'aburk3@gmail.com',
-},
+
+Austin Burke
+https://austinburke.dev/
+https://github.com/aburk3
+https://www.linkedin.com/in/austin-burke/
+aburk3@gmail.com

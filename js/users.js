@@ -756,21 +756,3 @@ export const users = [
     medium: null,
   },
 ];
-
-// Cohorts
-// April 22, 2019 Git Dot Money
-// June 3, 2019 2b
-// July 15, 2019 11xers
-// August 26, 2019 Arrayliens
-// October 7, 2019 Hashketeers
-// November 19, 2019 Bits Please
-// January 6, 2020 Die Prying
-// February 17, 2020 JSON Derulo
-// March 30, 2020 Notorious Git
-// May 11, 2020 The Empryer Strikes Back
-// June 22, 2020 Run Time Terrors
-// August 3, 2020 Git Forked
-// September 14, 2020 Only Spans
-// October 26, 2020 Illicit Syntax
-// December 7, 2020 Hip Hip Array
-// February 1, 2021 Juicy Functions
