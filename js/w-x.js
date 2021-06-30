@@ -18,6 +18,14 @@ export const WX = [
     medium: null,
   },
   {
+    name: 'Amber Williams', // cohort?
+    website: null,
+    email: 'awilliams1234@live.com',
+    github: null,
+    linkedin: 'https://www.linkedin.com/in/amber-williams-38151716b/',
+    medium: null,
+  },
+  {
     name: 'Ashley Winters', // Notorious Git 6/9/20
     website: null,
     email: 'ashbwinters@gmail.com',

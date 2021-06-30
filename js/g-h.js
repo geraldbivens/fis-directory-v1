@@ -26,6 +26,15 @@ export const GH = [
     medium: null,
   },
   {
+    name: 'Miwha Geschwind', // Die Prying
+    // website: 'https://miwha.co/',
+    website: 'miwha.co',
+    email: 'miwha.geschwind@gmail.com',
+    github: 'https://github.com/miwhag',
+    linkedin: 'https://www.linkedin.com/in/miwha-geschwind/',
+    medium: 'https://medium.com/@miwhag',
+  },
+  {
     name: 'James Giosmas', // Notorious Git 6/9/20
     website: null,
     email: 'giosmasj@gmail.com',
@@ -62,12 +71,29 @@ export const GH = [
     // email: 'gjgolden08@gmail.com',
   },
   {
+    name: 'Jeremy Gray', // Die Prying
+    website: null,
+    email: 'jeremytgray6@gmail.com',
+    github: 'https://github.com/jtgray6',
+    linkedin: 'https://www.linkedin.com/in/jeremytgray6/',
+    medium: null,
+  },
+  {
     name: 'Nick Gray', // Juicy Functions 5/13/21
     website: null,
     email: 'nickgray87@gmail.com',
     github: 'https://github.com/nickgray06',
     linkedin: 'https://www.linkedin.com/in/nick-gray-06/',
     medium: null,
+  },
+  {
+    name: 'Evan Greer', // Die Prying
+    // website: 'https://www.evan-greer.co/',
+    website: 'evan-greer.co',
+    email: 'etgreer91@gmail.com',
+    github: 'https://github.com/evantk91',
+    linkedin: 'https://www.linkedin.com/in/evantk91/',
+    medium: 'https://etgreer91.medium.com/',
   },
   {
     name: 'Lydia Gregory', // Notorious Git 6/9/20
@@ -104,6 +130,14 @@ export const GH = [
     medium: null,
   },
   {
+    name: 'Bradley Haley', // Die Prying
+    website: null,
+    email: 'Bshaley25@gmail.com',
+    github: 'https://github.com/bshaley25',
+    linkedin: 'https://www.linkedin.com/in/bradley-haley-44a85b19a/',
+    medium: null,
+  },
+  {
     name: 'Tara Harwood', // Juicy Functions 5/13/21
     website: null,
     email: 'tara.m.harwood@gmail.com',
@@ -134,6 +168,15 @@ export const GH = [
     github: 'https://github.com/jjhiggz',
     linkedin: 'https://www.linkedin.com/in/jonathan-higger/',
     medium: 'https://medium.com/@jonathan.higger',
+  },
+  {
+    name: 'Corey Hodge', // Die Prying
+    // website: 'https://coreyhodge.net/',
+    website: 'coreyhodge.net',
+    email: 'contact@coreyhodge.net',
+    github: 'https://github.com/WordsPerMinute',
+    linkedin: 'https://www.linkedin.com/in/coreyhodge/',
+    medium: 'https://medium.com/@coreyhodgedotnet',
   },
   {
     name: 'Jesse Houser', // Hackstreet {Boiz} 6/24/21

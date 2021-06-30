@@ -43,6 +43,14 @@ export const MN = [
     medium: 'https://brettneedham88.medium.com/',
   },
   {
+    name: 'Michael Newman', // Die Prying
+    website: null,
+    email: null,
+    github: 'https://github.com/coloradohokie',
+    linkedin: 'https://www.linkedin.com/in/michael-newman-denver/',
+    medium: null,
+  },
+  {
     name: 'Marissa Nolan', // Juicy Functions 5/13/21
     website: null,
     email: 'ritz1484@cs.com',

@@ -24,20 +24,20 @@ June 7, 2021 New Friends
 
 ## Die Prying
 
-Tissiana Alves
-Lillian Bitner
-Aaron Burmeister
-Josh Cabral
-Miwha Geschwind
-Jeremy Gray
-Evan Greer
-Bradley Haley
-Corey Hodge
-Douglas Johnson
-Jared Matta
-Michael Newman
-Jorge Santos
-Adam Shappy
+√ Tissiana Alves
+√ Lillian Bitner
+√ Aaron Burmeister
+√ Josh Cabral
+√ Miwha Geschwind
+√ Jeremy Gray
+√ Evan Greer
+√ Bradley Haley
+√ Corey Hodge
+√ Douglas Johnson
+√ Jared Matta
+√ Michael Newman
+√ Jorge Santos
+√ Adam Shappy
 
 ## JSON Derulo
 

@@ -2,6 +2,14 @@
 
 export const CD = [
   {
+    name: 'Josh Cabral', // Die Prying
+    website: null,
+    email: null,
+    github: 'https://github.com/joshycsm',
+    linkedin: 'https://www.linkedin.com/in/joshycsm/',
+    medium: 'https://joshycsm.medium.com/',
+  },
+  {
     name: 'Bradley Calkins',
     website: null,
     email: 'b.raders1013@gmail.com',

@@ -10,6 +10,14 @@ export const AB = [
     medium: 'https://razaljaf.medium.com/',
   },
   {
+    name: 'Tissiana Alves', // Die Prying
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
     name: 'Victor Amigo',
     // website: 'https://www.amigovictor.com/',
     website: 'amigovictor.com',
@@ -62,6 +70,14 @@ export const AB = [
     medium: null,
   },
   {
+    name: 'Lillian Bitner', // Die Prying
+    website: null,
+    email: 'lillian.bitner@gmail.com',
+    github: 'https://github.com/lilbitner',
+    linkedin: 'https://www.linkedin.com/in/lillian-bitner/',
+    medium: null,
+  },
+  {
     name: 'Gerald Bivens', // Hip Hip Arrays 4/21/21
     // website: 'https://jamespeirce.com/',
     website: 'jamespeirce.com',
@@ -93,5 +109,14 @@ export const AB = [
     github: 'https://github.com/jay719',
     linkedin: 'https://www.linkedin.com/in/javaria-brascom-0510991bb/',
     medium: 'https://javariab17.medium.com/',
+  },
+  {
+    name: 'Aaron Burmeister', // Die Prying
+    // website: 'https://aaronburmeister.tech/',
+    website: 'aaronburmeister.tech',
+    email: 'aaronburmeister91@gmail.com',
+    github: 'https://github.com/aaronburmeister',
+    linkedin: 'https://www.linkedin.com/in/aaronburmeister/',
+    medium: 'https://medium.com/@aaronburmeister',
   },
 ];

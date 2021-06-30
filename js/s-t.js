@@ -11,6 +11,15 @@ export const ST = [
     medium: null,
   },
   {
+    name: 'Jorge Santos', // Die Prying
+    // website: 'https://jorgesantos-38e0a.firebaseapp.com/',
+    website: 'jorgesantos-38e0a.firebaseapp.com',
+    email: 'Jlsantos280@gmail.com',
+    github: 'https://github.com/Jsantos107',
+    linkedin: 'https://www.linkedin.com/in/santos-jorge/',
+    medium: 'https://medium.com/@JorgeSantos7',
+  },
+  {
     name: 'Iuliia Saprykina',
     // website: 'https://portfolio-saprykina.firebaseapp.com/',
     website: 'portfolio-saprykina.firebaseapp.com',
@@ -18,6 +27,15 @@ export const ST = [
     github: 'https://github.com/IuliiaSaprykina',
     linkedin: 'https://www.linkedin.com/in/iuliia-saprykina-ab3351100/',
     medium: 'https://iuliia-proskurnina.medium.com/',
+  },
+  {
+    name: 'Adam Shappy', // Die Prying
+    // website: 'https://adam-shappy.com/',
+    website: 'adam-shappy.com',
+    email: 'ajs11300@gmail.com',
+    github: 'https://github.com/mrshappy0',
+    linkedin: 'https://www.linkedin.com/in/adam-shappy/',
+    medium: 'https://medium.com/@adam_shappy',
   },
   {
     name: 'JoAnn Siciliano', // Hackstreet {Boiz} 6/24/21

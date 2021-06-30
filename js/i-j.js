@@ -19,6 +19,16 @@ export const IJ = [
     medium: null,
   },
   {
+    name: 'Douglas Johnson', // Die Prying
+    // website: 'https://dougj.dev/',
+    website: 'dougj.dev',
+    email: 'doug@dougj.dev',
+    github: 'https://github.com/Douglas-J-Johnson',
+    linkedin: 'https://www.linkedin.com/in/douglas-j-johnson/',
+    medium: null,
+    // blogger: 'https://blog.dougj.dev/',
+  },
+  {
     name: 'Lisa Jung', // Notorious Git 6/9/20
     website: null,
     email: 'lisahjung@gmail.com',
