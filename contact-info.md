@@ -22,24 +22,73 @@ Mar 15 - June 24, 2021 Hackstreet Boiz
 Apr 26, 2021 Team 404
 June 7, 2021 New Friends
 
-Todd Carlson
-Adam Chernitsky
-Zack Claar
-Sarah Daniels
-AJ Diaz
-Kari Ferenczy https://medium.com/@klferenczy
-Crystal Neal https://medium.com/@cdneal091
-William/Zach Pardee https://medium.com/@zachpardee
-Ben Reilly https://medium.com/@ibenthinkin
-Amanda Rogers https://medium.com/@aarodgerswork
-Kevin Ruggiero https://medium.com/@kevinbruggiero
-Jack Spyek https://medium.com/@jpsypek
-Jared Stromberg https://medium.com/@jaredstromberg
-Finn Thye https://finnthye.medium.com/
-Kendall Willard https://kendallsblog.home.blog/
+## Die Prying
 
-Rene Adrian Avila
-David Montoya
+Tissiana Alves
+Lillian Bitner
+Aaron Burmeister
+Josh Cabral
+Miwha Geschwind
+Jeremy Gray
+Evan Greer
+Bradley Haley
+Corey Hodge
+Douglas Johnson
+Jared Matta
+Michael Newman
+Jorge Santos
+Adam Shappy
+
+## JSON Derulo
+
+Katie Belanger
+Todd Carlson
+AJ Diaz
+Kristine Du
+Rachel Emmer
+Tyler Funk
+Joe Gelay
+Brandon Green
+Jonathan Higger
+Matt Mrozewski
+Jack Perry
+Parada Richardson
+
+## Notorious GIT
+
+Ryan Anderson
+Katie Clark
+Mike De La Rosa
+Hannah Drury
+Nolan Dyke
+David Fertitta
+James Giosmas
+Lydia Gregory
+Zachary Jacobs
+Lisa Jung
+Austin Kohler
+JT Lu
+Denise Magner
+Iuliia Saprykina
+Daniel Steed
+Ashley Winters
+Blake Woodruff
+
+## Empryers
+
+Adrian Avila
+Austin Evans
+Jordan Buysse
+Gregg Garrison
+Andrew Hawley
+Haley Kelling
+Bryce Kennedy
+Logan McGuire
+Jason Nordheim
+Kyle Petersen
+Will Reeves
+Justin Sabath
+Scott Singer
 Bob Whitmer
 
 ## Run Time Terrors 6/22/20 - 10/1/20
@@ -147,12 +196,22 @@ Steven Yi
 
 ## Hackstreet Boiz 3/15/21
 
+Joshua Blackham
+Matt Bonebrake
+David Henderson
+Jesse Houser
+Paige Kelly
+Eric Lee
+Steven Ly
+Megan Ritchie
+Jo Siciliano
+Haley Warson
+
 ## Team 404 4/26/21
 
 ## Misc
 
 Joshua Blackham
-Austin Evans
 Louis Leffler
 Zachary Mayle
 Derek Turner
@@ -163,3 +222,17 @@ https://austinburke.dev/
 https://github.com/aburk3
 https://www.linkedin.com/in/austin-burke/
 aburk3@gmail.com
+
+Adam Chernitsky
+Zack Claar
+Sarah Daniels
+Kari Ferenczy https://medium.com/@klferenczy
+Crystal Neal https://medium.com/@cdneal091
+William/Zach Pardee https://medium.com/@zachpardee
+Ben Reilly https://medium.com/@ibenthinkin
+Amanda Rogers https://medium.com/@aarodgerswork
+Kevin Ruggiero https://medium.com/@kevinbruggiero
+Jack Spyek https://medium.com/@jpsypek
+Jared Stromberg https://medium.com/@jaredstromberg
+Finn Thye https://finnthye.medium.com/
+Kendall Willard https://kendallsblog.home.blog/
