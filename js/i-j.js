@@ -2,7 +2,7 @@
 
 export const IJ = [
   {
-    name: 'Mary Beth Ingram', // Juicy Functions 5/13/21
+    name: 'Mary Beth Ingram', // Juicy Functions
     // website: 'https://www.marybethdev.com/',
     website: 'marybethdev.com',
     email: 'mbingramm@gmail.com',
@@ -11,7 +11,7 @@ export const IJ = [
     medium: null,
   },
   {
-    name: 'Zachary Jacobs', // Notorious Git 6/9/20
+    name: 'Zachary Jacobs', // Notorious Git
     website: null,
     email: 'zprogrammer@icloud.com',
     github: 'https://github.com/zprogrammer-code',
@@ -29,7 +29,15 @@ export const IJ = [
     // blogger: 'https://blog.dougj.dev/',
   },
   {
-    name: 'Lisa Jung', // Notorious Git 6/9/20
+    name: 'Kevin Johnson', // Illicit Syntax
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Lisa Jung', // Notorious Git
     website: null,
     email: 'lisahjung@gmail.com',
     github: null,

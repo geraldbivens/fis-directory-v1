@@ -2,12 +2,20 @@
 
 export const ST = [
   {
-    name: 'Justin Sabath',
+    name: 'Justin Sabath', // Empryers
     // website: 'https://jsabath.github.io/',
     website: 'jsabath.github.io',
     email: 'justin.sabath.dev@gmail.com',
     github: 'https://github.com/jsabath',
     linkedin: 'https://www.linkedin.com/in/justinsabath/',
+    medium: null,
+  },
+  {
+    name: 'Jack Sanders', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
     medium: null,
   },
   {
@@ -20,7 +28,7 @@ export const ST = [
     medium: 'https://medium.com/@JorgeSantos7',
   },
   {
-    name: 'Iuliia Saprykina',
+    name: 'Iuliia Saprykina', // Notorious Git
     // website: 'https://portfolio-saprykina.firebaseapp.com/',
     website: 'portfolio-saprykina.firebaseapp.com',
     email: 'iuliia.proskurnina@gmail.com',
@@ -38,7 +46,7 @@ export const ST = [
     medium: 'https://medium.com/@adam_shappy',
   },
   {
-    name: 'JoAnn Siciliano', // Hackstreet {Boiz} 6/24/21
+    name: 'JoAnn Siciliano', // Hackstreet {Boiz}
     website: null,
     email: 'joannsiciliano.dev@gmail.com',
     github: 'https://github.com/joannsiciliano/',
@@ -46,7 +54,7 @@ export const ST = [
     medium: null,
   },
   {
-    name: 'Alexander Sherwin', // Juicy Functions 5/13/21
+    name: 'Alexander Sherwin', // Juicy Functions
     website: null,
     email: 'alx.sherwin@gmail.com',
     github: 'https://github.com/MomentaiBro',
@@ -54,7 +62,15 @@ export const ST = [
     medium: null,
   },
   {
-    name: 'Daniel Steed', // Notorious Git 6/9/20
+    name: 'Rodney Smith', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Daniel Steed', // Notorious Git
     // website: 'https://danielsteed.com/',
     website: 'danielsteed.com',
     email: 'dsteed112@gmail.com',
@@ -63,7 +79,7 @@ export const ST = [
     medium: 'https://medium.com/@dsteed112',
   },
   {
-    name: 'Elliott Stein',
+    name: 'Elliott Stein', // Git Forked
     website: null,
     email: 'estein1988@gmail.com',
     github: 'https://github.com/estein1988',
@@ -79,7 +95,7 @@ export const ST = [
     medium: 'https://medium.com/@jaredstromberg',
   },
   {
-    name: 'Lucas Thinnes', // Hip Hip Arrays 4/21/21
+    name: 'Lucas Thinnes', // Hip Hip Arrays
     // website: 'https://lucasthinnes.com/',
     website: 'lucasthinnes.com',
     email: 'lukethinnes@protonmail.com',
@@ -88,7 +104,7 @@ export const ST = [
     medium: 'https://lucasthinnes.medium.com/',
   },
   {
-    name: 'Kyle Trahan',
+    name: 'Kyle Trahan', // Git Forked
     // website: 'https://dev.to/ktrahan2',
     website: 'dev.to/ktrahan2',
     email: 'ktrahan2@gmail.com',

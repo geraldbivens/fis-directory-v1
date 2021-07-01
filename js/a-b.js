@@ -2,7 +2,7 @@
 
 export const AB = [
   {
-    name: 'Raz Al-Jaf', // Hip Hip Arrays 4/21/21
+    name: 'Raz Al-Jaf', // Hip Hip Arrays
     website: null,
     email: 'razaljaf@gmail.com',
     github: 'https://github.com/ThatoneKurdishSE',
@@ -18,7 +18,7 @@ export const AB = [
     medium: null,
   },
   {
-    name: 'Victor Amigo',
+    name: 'Victor Amigo', // Git Forked
     // website: 'https://www.amigovictor.com/',
     website: 'amigovictor.com',
     email: 'amigo.victor.97@gmail.com',
@@ -27,7 +27,7 @@ export const AB = [
     medium: null,
   },
   {
-    name: 'Ryan Anderson', // Notorious Git 7/9/20
+    name: 'Ryan Anderson', // Notorious Git
     website: null,
     email: 'ryan.t.anderson19@gmail.com',
     github: null,
@@ -35,7 +35,7 @@ export const AB = [
     medium: null,
   },
   {
-    name: 'Thomas Bachorz',
+    name: 'Thomas Bachorz', // Git Forked
     // website: 'https://tjbachorz.live/',
     website: 'tjbachorz.live',
     email: 'tjbachorz@gmail.com',
@@ -45,7 +45,15 @@ export const AB = [
     // twitter: 'https://twitter.com/ThomasBachorz',
   },
   {
-    name: 'Mell Basham', // Juicy Functions 5/13/21
+    name: 'Chris Banta', // Run Time Terrors
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Mell Basham', // Juicy Functions
     website: null,
     email: 'mellbasham@gmail.com',
     github: 'https://github.com/MellB0501',
@@ -61,7 +69,7 @@ export const AB = [
     medium: 'https://medium.com/@nyaradzobere',
   },
   {
-    name: 'Brook Beyene',
+    name: 'Brook Beyene', // Illicit Syntax
     // website: 'https://www.wayup.com/profile/Brook-Beyene-744ad6aea7/',
     website: 'wayup.com/profile/Brook-Beyene-744ad6aea7',
     email: 'brookbeyene37@gmail.com',
@@ -78,7 +86,7 @@ export const AB = [
     medium: null,
   },
   {
-    name: 'Gerald Bivens', // Hip Hip Arrays 4/21/21
+    name: 'Gerald Bivens', // Hip Hip Arrays
     // website: 'https://jamespeirce.com/',
     website: 'jamespeirce.com',
     email: 'geraldbivens@gmail.com',
@@ -87,7 +95,7 @@ export const AB = [
     medium: 'https://medium.com/@geraldbivens',
   },
   {
-    name: 'Joshua Blackham', // Hackstreet {Boiz} 6/24/21
+    name: 'Joshua Blackham', // Hackstreet {Boiz}
     website: null,
     email: 'BlackhamJoshua@comcast.net',
     github: 'https://github.com/Jblack017',
@@ -95,7 +103,7 @@ export const AB = [
     medium: null,
   },
   {
-    name: 'Matt Bonebrake', // Hackstreet {Boiz} 6/24/21
+    name: 'Matt Bonebrake', // Hackstreet {Boiz}
     website: null,
     email: 'mcbone1986@gmail.com',
     github: 'https://github.com/mcbone1986',

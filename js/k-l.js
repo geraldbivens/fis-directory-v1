@@ -2,7 +2,7 @@
 
 export const KL = [
   {
-    name: 'Tiffany Kanjanabout',
+    name: 'Tiffany Kanjanabout', // Only Spans
     website: null,
     email: null,
     github: 'https://github.com/tiffanynk',
@@ -18,7 +18,7 @@ export const KL = [
     medium: null,
   },
   {
-    name: 'Paige Kelly', // Hackstreet {Boiz} 6/24/21
+    name: 'Paige Kelly', // Hackstreet {Boiz}
     website: null,
     email: 'paigekellydev@gmail.com',
     github: 'https://github.com/pckellyco',
@@ -26,7 +26,7 @@ export const KL = [
     medium: null,
   },
   {
-    name: 'Shelley (Brook) Kershaw',
+    name: 'Shelley (Brook) Kershaw', // Git Forked
     website: null,
     email: 'sbrook13@gmail.com',
     github: 'https://github.com/sbrook13',
@@ -43,7 +43,7 @@ export const KL = [
     medium: 'https://medium.com/@hjkmines',
   },
   {
-    name: 'Austin Kohler', // Notorious Git 6/9/20
+    name: 'Austin Kohler', // Notorious Git
     website: null,
     email: 'austinckohler@gmail.com',
     github: null,
@@ -59,7 +59,7 @@ export const KL = [
     medium: null,
   },
   {
-    name: 'Eric Lee', // Hackstreet {Boiz} 6/24/21
+    name: 'Eric Lee', // Hackstreet {Boiz}
     website: null,
     email: 'e.lee.at@gmail.com',
     github: 'https://github.com/Kwayzaar',
@@ -75,7 +75,7 @@ export const KL = [
     medium: null,
   },
   {
-    name: 'Kat Leight', // Hip Hip Arrays 4/21/21
+    name: 'Kat Leight', // Hip Hip Arrays
     website: null,
     email: 'leightkt@gmail.com',
     github: 'https://github.com/leightkt',
@@ -83,7 +83,15 @@ export const KL = [
     medium: 'https://kat-leight.medium.com/',
   },
   {
-    name: 'Phong Lo', // Juicy Functions 5/13/21
+    name: 'Marcos Lipic', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Phong Lo', // Juicy Functions
     website: null,
     email: 'phonglo724@gmail.com',
     github: 'https://github.com/phonglo724',
@@ -100,7 +108,7 @@ export const KL = [
     medium: 'https://mattlong34.medium.com/',
   },
   {
-    name: 'JT Lu', // Notorious Git 6/9/20
+    name: 'JT Lu', // Notorious Git
     // website: 'https://jtlu.dev/',
     website: 'jtlu.dev',
     email: 'alohajt94@gmail.com',
@@ -109,7 +117,7 @@ export const KL = [
     medium: 'https://medium.com/@alohajt94',
   },
   {
-    name: 'Steven Ly', // Hackstreet {Boiz} 6/24/21
+    name: 'Steven Ly', // Hackstreet {Boiz}
     website: null,
     email: 'steven.ly0392@gmail.com',
     github: 'https://github.com/stevenly03',

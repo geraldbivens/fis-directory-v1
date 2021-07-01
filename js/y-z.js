@@ -2,7 +2,7 @@
 
 export const YZ = [
   {
-    name: 'Steven Yi', // Juicy Functions 5/13/21
+    name: 'Steven Yi', // Juicy Functions
     website: null,
     email: 'stevenliuyi88@gmail.com',
     github: null,
@@ -10,7 +10,7 @@ export const YZ = [
     medium: null,
   },
   {
-    name: 'Sanjeev Yogi',
+    name: 'Sanjeev Yogi', // Git Forked
     website: null,
     email: 'yogi.sjv@gmail.com',
     github: 'https://github.com/sanjeevyg',

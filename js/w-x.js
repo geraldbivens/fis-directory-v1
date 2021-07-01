@@ -2,7 +2,7 @@
 
 export const WX = [
   {
-    name: 'Harley Warson', // Hackstreet {Boiz} 6/24/21
+    name: 'Harley Warson', // Hackstreet {Boiz}
     website: null,
     email: 'haleywarson@gmail.com',
     github: 'https://github.com/haleywarson',
@@ -10,7 +10,7 @@ export const WX = [
     medium: null,
   },
   {
-    name: 'Benton Westergaard', // Juicy Functions 5/13/21
+    name: 'Benton Westergaard', // Juicy Functions
     website: null,
     email: 'benton.westergaard@gmail.com',
     github: 'https://github.com/bwesterg',
@@ -26,7 +26,7 @@ export const WX = [
     medium: null,
   },
   {
-    name: 'Ashley Winters', // Notorious Git 6/9/20
+    name: 'Ashley Winters', // Notorious Git
     website: null,
     email: 'ashbwinters@gmail.com',
     github: 'https://github.com/ashbwinters',
@@ -34,7 +34,7 @@ export const WX = [
     medium: null,
   },
   {
-    name: 'Blake Woodruff', // Notorious Git 6/9/20
+    name: 'Blake Woodruff', // Notorious Git
     website: null,
     email: 'blakewoodruff4@gmail.com',
     github: 'https://github.com/Bwoodruff4',

@@ -2,7 +2,7 @@
 
 export const MN = [
   {
-    name: 'Daniel Madera',
+    name: 'Daniel Madera', // Git Forked
     website: null,
     email: 'dmadera0@gmail.com',
     github: 'https://github.com/dmadera0',
@@ -10,11 +10,51 @@ export const MN = [
     medium: null,
   },
   {
-    name: 'Denise Magner', // Notorious Git 6/9/20
+    name: 'Denise Magner', // Notorious Git
     website: null,
     email: 'deerenae@gmail.com',
     github: 'https://github.com/deerenae',
     linkedin: 'https://www.linkedin.com/in/denise-magner/',
+    medium: null,
+  },
+  {
+    name: 'Matthew Malecki', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Junior Medina', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Music Meier', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Augie Menos', // Illicit Syntax
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Paige Lucas Miles', // Illicit Syntax
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
     medium: null,
   },
   {
@@ -26,7 +66,7 @@ export const MN = [
     medium: 'https://medium.com/@mnavoy4',
   },
   {
-    name: 'William Neal', // Hip Hip Arrays 4/21/21
+    name: 'William Neal', // Hip Hip Arrays
     website: null,
     email: 'wln.develops@gmail.com',
     github: 'https://github.com/Jawnny5',
@@ -35,7 +75,7 @@ export const MN = [
     // william.neal83@gmail.com
   },
   {
-    name: 'Brett Needham', // Hip Hip Arrays 4/21/21
+    name: 'Brett Needham', // Hip Hip Arrays
     website: null,
     email: 'brettneedham88@gmail.com',
     github: 'https://github.com/brettneedham88',
@@ -51,7 +91,7 @@ export const MN = [
     medium: null,
   },
   {
-    name: 'Marissa Nolan', // Juicy Functions 5/13/21
+    name: 'Marissa Nolan', // Juicy Functions
     website: null,
     email: 'ritz1484@cs.com',
     github: 'https://github.com/LittleRedButton7',
@@ -59,7 +99,15 @@ export const MN = [
     medium: null,
   },
   {
-    name: 'Adam Nowland', // Juicy Functions 5/13/21
+    name: 'Johnny Noriega', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Adam Nowland', // Juicy Functions
     // website: 'https://www.adam-nowland.com/',
     website: 'adam-nowland.com',
     email: 'acnowland@gmail.com',
@@ -68,7 +116,7 @@ export const MN = [
     medium: null,
   },
   {
-    name: 'Obinna Nwabia', // Hip Hip Arrays 4/21/21
+    name: 'Obinna Nwabia', // Hip Hip Arrays
     website: null,
     email: 'valinevite@gmail.com',
     github: 'https://github.com/coremand',

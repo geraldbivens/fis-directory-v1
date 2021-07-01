@@ -2,7 +2,23 @@
 
 export const EF = [
   {
-    name: 'Nathan Fedzen', // Hip Hip Arrays 4/21/21
+    name: 'Jason Easterly', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Sam Evans', // Run Time Terrors
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Nathan Fedzen', // Hip Hip Arrays
     website: null,
     email: 'nathanfedzen@gmail.com',
     github: 'https://github.com/nfedzen',
@@ -10,7 +26,15 @@ export const EF = [
     medium: null,
   },
   {
-    name: 'David Fertitta', // Notorious Git 6/9/20
+    name: 'Carlos Fernandez', // Run Time Terrors
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'David Fertitta', // Notorious Git
     website: null,
     email: 'davidj.fertitta@gmail.com',
     github: null,
@@ -27,7 +51,7 @@ export const EF = [
     // twitter: 'https://twitter.com/brianfirooz',
   },
   {
-    name: 'Chris Follen', // Juicy Functions 5/13/21
+    name: 'Chris Follen', // Juicy Functions
     // website: 'www.chrisfollen.com',
     website: 'chrisfollen.com',
     email: 'christopher.follen@gmail.com',

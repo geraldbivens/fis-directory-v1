@@ -20,7 +20,7 @@ export const QR = [
     // youtube: 'https://www.youtube.com/channel/UCv8YpacxVgL9ShVduwb3Blg',
   },
   {
-    name: 'Meagan Ritchie', // Hackstreet {Boiz} 6/24/21
+    name: 'Meagan Ritchie', // Hackstreet {Boiz}
     website: null,
     email: 'meaganritchie@gmail.com',
     github: 'https://github.com/MeaganRitchie',
@@ -37,7 +37,7 @@ export const QR = [
   //   dev: 'https://dev.to/rizz0s',
   // },
   {
-    name: 'Marnie Robinson', // Juicy Functions 5/13/21
+    name: 'Marnie Robinson', // Juicy Functions
     website: null,
     email: 'marnielane@gmail.com',
     github: 'https://github.com/Marnielane',
@@ -45,7 +45,7 @@ export const QR = [
     medium: null,
   },
   {
-    name: 'Reed Roffis', // Juicy Functions 5/13/21
+    name: 'Reed Roffis', // Juicy Functions
     website: null,
     email: 'reedroffis18@gmail.com',
     github: 'https://github.com/reedroffis',
@@ -53,7 +53,7 @@ export const QR = [
     medium: null,
   },
   {
-    name: 'Arielle Ross', // Hip Hip Arrays 4/21/21
+    name: 'Arielle Ross', // Hip Hip Arrays
     // website: 'https://arielleross.com/',
     website: 'arielleross.com',
     email: 'arielle@arielleross.com',
@@ -62,7 +62,7 @@ export const QR = [
     medium: 'https://arielle-10415.medium.com/',
   },
   {
-    name: 'Benjamin Rowe',
+    name: 'Benjamin Rowe', // Git Forked
     website: null,
     email: 'browe495@gmail.com',
     github: 'https://github.com/benjamin787/',
@@ -70,7 +70,7 @@ export const QR = [
     medium: null,
   },
   {
-    name: 'Blake Runyon', // Juicy Functions 5/13/21
+    name: 'Blake Runyon', // Juicy Functions
     // website: 'https://kaylinanorton.com/',
     website: 'kaylinanorton.com',
     email: 'blakerunyon09@gmail.com',
@@ -79,7 +79,7 @@ export const QR = [
     medium: null,
   },
   {
-    name: 'Diana Rybikov', // Juicy Functions 5/13/21
+    name: 'Diana Rybikov', // Juicy Functions
     website: null,
     email: 'diana.ryb214@gmail.com',
     github: 'https://github.com/dianarybikov',

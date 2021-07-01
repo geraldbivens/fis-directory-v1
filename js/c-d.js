@@ -10,7 +10,7 @@ export const CD = [
     medium: 'https://joshycsm.medium.com/',
   },
   {
-    name: 'Bradley Calkins',
+    name: 'Bradley Calkins', // Only Spans
     website: null,
     email: 'b.raders1013@gmail.com',
     github: 'https://github.com/bmcalkins',
@@ -46,13 +46,21 @@ export const CD = [
     medium: null,
   },
   {
-    name: 'Ryan Choe', // Hip Hip Arrays 4/21/21
+    name: 'Ryan Choe', // Hip Hip Arrays
     // website: 'https://ryanachoe.com/',
     website: 'ryanachoe.com',
     email: 'Ryan.Choe@outlook.com',
     github: 'https://github.com/rchoe1229',
     linkedin: 'https://www.linkedin.com/in/ryanchoe1229/',
     medium: 'https://chowderchoe.medium.com/',
+  },
+  {
+    name: 'Eric Christine', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
   },
   {
     name: 'Zack Claar',
@@ -63,7 +71,7 @@ export const CD = [
     medium: 'https://medium.com/@yR.DEV',
   },
   {
-    name: 'Katie Clark', // Notorious Git 6/9/20
+    name: 'Katie Clark', // Notorious Git
     // website: 'https://www.katielaelclark.me/',
     website: 'katielaelclark.me',
     email: 'kathrynlael@gmail.com',
@@ -81,7 +89,7 @@ export const CD = [
     medium: 'https://medium.com/@kyle.coberly',
   },
   {
-    name: 'Terrell Cooper',
+    name: 'Terrell Cooper', // Git Forked
     website: null,
     email: 'terrellcoop@gmail.com',
     github: 'https://github.com/Rellyrell55',
@@ -105,7 +113,7 @@ export const CD = [
   //   medium: 'https://medium.com/@cristicristo',
   // },
   {
-    name: 'Kelsey Creehan',
+    name: 'Kelsey Creehan', // Git Forked
     website: null,
     email: 'kelseycreehan@gmail.com',
     github: 'https://github.com/KelsCree',
@@ -113,7 +121,7 @@ export const CD = [
     medium: null,
   },
   {
-    name: 'Nate Croteau', // Juicy Functions 5/13/21
+    name: 'Nate Croteau', // Juicy Functions
     website: null,
     email: 'natekcroteau@gmail.com',
     github: 'https://github.com/natekcroteau',
@@ -121,7 +129,15 @@ export const CD = [
     medium: null,
   },
   {
-    name: 'Mike De La Rosa', // Notorious Git 6/9/20
+    name: "D'Arcy Draper", // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Mike De La Rosa', // Notorious Git
     website: null,
     email: 'mdelarosa86@gmail.com',
     github: 'https://github.com/mdelarosa',
@@ -138,7 +154,7 @@ export const CD = [
     medium: 'https://sarahsakordaniels.medium.com/',
   },
   {
-    name: 'Kyle Davis', // Juicy Functions 5/13/21
+    name: 'Kyle Davis', // Juicy Functions
     website: null,
     email: 'davis.h.kyle@gmail.com',
     github: 'https://github.com/harland-davis',
@@ -157,7 +173,7 @@ export const CD = [
     // youtube: 'https://www.youtube.com/channel/UC5iqEUPgOwC-OxLCzFegVsA',
   },
   {
-    name: 'Jamon Dixon', // Juicy Functions 5/13/21
+    name: 'Jamon Dixon', // Juicy Functions
     website: null,
     email: 'jamonadixon@gmail.com',
     github: 'https://github.com/Jamondixon',
@@ -165,7 +181,7 @@ export const CD = [
     medium: 'https://jamondixon.medium.com/',
   },
   {
-    name: 'Hannah Drury', // Notorious Git 6/9/20
+    name: 'Hannah Drury', // Notorious Git
     website: null,
     email: 'hannahdruryutd@gmail.com',
     github: 'https://github.com/wolf-dominion',
@@ -189,7 +205,7 @@ export const CD = [
     medium: 'https://benthedunn.medium.com/',
   },
   {
-    name: 'Nolan Dyke', // Notorious Git 6/9/20
+    name: 'Nolan Dyke', // Notorious Git
     website: null,
     email: 'nolan.g.dyke@gmail.com',
     github: null,

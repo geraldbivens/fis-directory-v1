@@ -18,7 +18,7 @@ export const GH = [
     medium: 'https://alexandermgabriel.medium.com/',
   },
   {
-    name: 'Luis Garcia',
+    name: 'Luis Garcia', // Git Forked
     website: null,
     email: 'garciale308@gmail.com',
     github: 'https://github.com/luies24',
@@ -35,7 +35,7 @@ export const GH = [
     medium: 'https://medium.com/@miwhag',
   },
   {
-    name: 'James Giosmas', // Notorious Git 6/9/20
+    name: 'James Giosmas', // Notorious Git
     website: null,
     email: 'giosmasj@gmail.com',
     github: 'https://github.com/giosmasj',
@@ -51,7 +51,7 @@ export const GH = [
     medium: 'https://real-kevbot.medium.com/',
   },
   {
-    name: 'Sam Gold', // Hip Hip Arrays 4/21/21
+    name: 'Sam Gold', // Hip Hip Arrays
     website: null,
     email: 'samgolddev@gmail.com',
     github: 'https://github.com/sgold57',
@@ -59,7 +59,15 @@ export const GH = [
     medium: null,
   },
   {
-    name: 'Jeff Golden', // Hip Hip Arrays 4/21/21
+    name: 'Sydney Goldberg', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Jeff Golden', // Hip Hip Arrays
     // website: 'https://gjeffgolden.com/',
     website: 'gjeffgolden.com',
     email: 'codebygolden@gmail.com',
@@ -71,6 +79,14 @@ export const GH = [
     // email: 'gjgolden08@gmail.com',
   },
   {
+    name: 'Brian Gordon', // Illicit Syntax
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
     name: 'Jeremy Gray', // Die Prying
     website: null,
     email: 'jeremytgray6@gmail.com',
@@ -79,7 +95,7 @@ export const GH = [
     medium: null,
   },
   {
-    name: 'Nick Gray', // Juicy Functions 5/13/21
+    name: 'Nick Gray', // Juicy Functions
     website: null,
     email: 'nickgray87@gmail.com',
     github: 'https://github.com/nickgray06',
@@ -96,7 +112,7 @@ export const GH = [
     medium: 'https://etgreer91.medium.com/',
   },
   {
-    name: 'Lydia Gregory', // Notorious Git 6/9/20
+    name: 'Lydia Gregory', // Notorious Git
     // website: 'https://lydiagregory.dev/',
     website: 'lydiagregory.dev',
     email: 'lydia.gregory.dev@gmail.com',
@@ -105,15 +121,7 @@ export const GH = [
     medium: null,
   },
   {
-    name: 'Nathan Gusky', // Juicy Functions 5/13/21
-    website: null,
-    email: 'nathangusky13@gmail.com',
-    github: 'https://github.com/Guskyn13',
-    linkedin: 'https://www.linkedin.com/in/nathankgusky/',
-    medium: null,
-  },
-  {
-    name: 'Jennifer Grenier',
+    name: 'Jennifer Grenier', // Git Forked
     website: null,
     email: 'jenniferagrenier@gmail.com',
     github: 'https://github.com/JAGrenier',
@@ -121,7 +129,15 @@ export const GH = [
     medium: 'https://jagrenier.medium.com/',
   },
   {
-    name: 'Phil Haines', // Juicy Functions 5/13/21
+    name: 'Nathan Gusky', // Juicy Functions
+    website: null,
+    email: 'nathangusky13@gmail.com',
+    github: 'https://github.com/Guskyn13',
+    linkedin: 'https://www.linkedin.com/in/nathankgusky/',
+    medium: null,
+  },
+  {
+    name: 'Phil Haines', // Juicy Functions
     // website: 'https://www.philiphaines.com/',
     website: 'philiphaines.com',
     email: 'phil.haines92@gmail.com',
@@ -138,7 +154,7 @@ export const GH = [
     medium: null,
   },
   {
-    name: 'Tara Harwood', // Juicy Functions 5/13/21
+    name: 'Tara Harwood', // Juicy Functions
     website: null,
     email: 'tara.m.harwood@gmail.com',
     github: 'https://github.com/tara-m-harwood',
@@ -146,7 +162,15 @@ export const GH = [
     medium: null,
   },
   {
-    name: 'David Henderson', // Hackstreet {Boiz} 6/24/21
+    name: 'Chris Henderson', // Illicit Syntax
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'David Henderson', // Hackstreet {Boiz}
     website: null,
     email: 'me@davidhenderson.tech',
     github: 'https://github.com/notDavidHenderson',
@@ -154,7 +178,7 @@ export const GH = [
     medium: null,
   },
   {
-    name: 'Grant Hesketh', // Hip Hip Arrays 4/21/21
+    name: 'Grant Hesketh', // Hip Hip Arrays
     website: null,
     email: 'ghesketh76@gmail.com',
     github: 'https://github.com/ghesketh76',
@@ -179,7 +203,7 @@ export const GH = [
     medium: 'https://medium.com/@coreyhodgedotnet',
   },
   {
-    name: 'Jesse Houser', // Hackstreet {Boiz} 6/24/21
+    name: 'Jesse Houser', // Hackstreet {Boiz}
     website: null,
     email: 'jesseahouser@gmail.com',
     github: 'https://github.com/jesseahouser',
@@ -187,7 +211,7 @@ export const GH = [
     medium: null,
   },
   {
-    name: 'Jack Hubert', // Hip Hip Arrays 4/21/21
+    name: 'Jack Hubert', // Hip Hip Arrays
     website: null,
     email: 'jphubert93@gmail.com',
     github: 'https://github.com/hydroflux',

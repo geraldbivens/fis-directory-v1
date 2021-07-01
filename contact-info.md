@@ -54,7 +54,7 @@ Matt Mrozewski
 Jack Perry
 Parada Richardson
 
-## Notorious GIT
+## Notorious Git
 
 Ryan Anderson
 Katie Clark
@@ -69,10 +69,10 @@ Lisa Jung
 Austin Kohler
 JT Lu
 Denise Magner
-Iuliia Saprykina
-Daniel Steed
-Ashley Winters
-Blake Woodruff
+√ Iuliia Saprykina
+√ Daniel Steed
+√ Ashley Winters
+√ Blake Woodruff
 
 ## Empryers
 
@@ -87,89 +87,88 @@ Logan McGuire
 Jason Nordheim
 Kyle Petersen
 Will Reeves
-Justin Sabath
+√ Justin Sabath
 Scott Singer
 Bob Whitmer
 
 ## Run Time Terrors 6/22/20 - 10/1/20
 
-Chris Banta
-Nyaradzo Bere
-Ben Dunn
-Sam Evans
-Carlos Fernandez
-Tony Kim
-Matt Long
-Michael Navoy
-Hailey Ringier
+√ Chris Banta
+√ Nyaradzo Bere
+√ Ben Dunn
+√ Sam Evans
+√ Carlos Fernandez
+√ Tony Kim
+√ Matt Long
+√ Michael Navoy
+√ Hailey Ringier
 
 ## Git Forked 8/3/20 - 11/12/20
 
-Victor Amigo
-Thomas/T.J. Bachorz
-Shelley Brook
-Terrell Cooper
-Kelsey Creehan
-Luis Garcia
-Jennifer Grenier
-Daniel Madera
-Jay Oliver
-Bryan Oyloe
-Benjamin Rowe
-Elliott Stein
-Kyle Trahan
-Sanjeev Yogi
+√ Victor Amigo
+√ Thomas/T.J. Bachorz
+√ Terrell Cooper
+√ Kelsey Creehan
+√ Luis Garcia
+√ Jennifer Grenier
+√ Shelley (Brook) Kershaw
+√ Daniel Madera
+√ Jay Oliver
+√ Bryan Oyloe
+√ Benjamin Rowe
+√ Elliott Stein
+√ Kyle Trahan
+√ Sanjeev Yogi
 
 ## Only Spans 9/14/20 - 11/12/20
 
-Bradley Calkins
-Eric Christine
-D'Arcy Draper
-Jason Easterly
-Sydney Goldberg
-Tiffany Kanjanabout
-Marcos Lipic
-Matthew Malecki
-Junior Medina
-Music Meier
-Johnny Noriega
-Kelsey Oshiro
-Jack Sanders
-Rodney Smith
+√ Bradley Calkins
+√ Eric Christine
+√ D'Arcy Draper
+√ Jason Easterly
+√ Sydney Goldberg
+√ Tiffany Kanjanabout
+√ Marcos Lipic
+√ Matthew Malecki
+√ Junior Medina
+√ Music Meier
+√ Johnny Noriega
+√ Kelsey Oshiro
+√ Jack Sanders
+√ Rodney Smith
 
 ## Illicit Syntax 10/26/20 - 2/18/21
 
-Brook Beyene
-Javaria Bracsom
-Alexander Gabriel
-Kevin Glasgow
-Brian Gordon
-Chris Henderson
-Kevin Johnson
-Allen Richard Lea
-Augie Menos
-Paige Lucas Miles
-Jordan Panasewicz
-Colter Ulrich
+√ Brook Beyene
+√ Javaria Bracsom
+√ Alexander Gabriel
+√ Kevin Glasgow
+√ Brian Gordon
+√ Chris Henderson
+√ Kevin Johnson
+√ Allen Richard Lea
+√ Augie Menos
+√ Paige Lucas Miles
+√ Jordan Panasewicz
+√ Colter Ulrich
 
 ## Hip Hip Arrays 12/7/20 - 4/21/21
 
-Raz Al-Jaf
-Ryan Choe
-Gerald Bivens
-Ryan Choe
-Nathan Fedzen
-Sam Gold
-Jeff Golden
-Grant Hesketh
-Jack Hubert
-Kat Leight
-William Neal
-Brett Needham
-Obinna Nwabia
-Colton O'Connor
-Arielle Ross
-Luke Thinnes
+√ Raz Al-Jaf
+√ Gerald Bivens
+√ Ryan Choe
+√ Nathan Fedzen
+√ Sam Gold
+√ Jeff Golden
+√ Grant Hesketh
+√ Jack Hubert
+√ Kat Leight
+√ William Neal
+√ Brett Needham
+√ Obinna Nwabia
+√ Colton O'Connor
+√ Arielle Ross
+√ Luke Thinnes
 
 ## Juicy Functions 2/1/21
 

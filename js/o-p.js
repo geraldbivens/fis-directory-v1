@@ -11,7 +11,7 @@ export const OP = [
     medium: 'https://colton-shawn-oconnor.medium.com/',
   },
   {
-    name: 'Jay Oliver',
+    name: 'Jay Oliver', // Git Forked
     website: null,
     email: 'jaykamas@gmail.com',
     github: 'https://github.com/Qwerter49',
@@ -19,13 +19,29 @@ export const OP = [
     medium: '',
   },
   {
-    name: 'Bryan Oyloe',
+    name: 'Kelsey Oshiro', // Only Spans
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+  },
+  {
+    name: 'Bryan Oyloe', // Git Forked
     // website: 'https://bryanoyloe.com/',
     website: 'bryanoyloe.com',
     email: 'boyloe@gmail.com',
     github: 'https://github.com/boyloe',
     linkedin: 'https://www.linkedin.com/in/bryan-oyloe/',
     medium: 'https://medium.com/@bryanoyloe',
+  },
+  {
+    name: 'Jordan Panasewicz', // Illicit Syntax
+    website: null,
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
   },
   {
     name: 'Kyle Peterson',
@@ -38,7 +54,8 @@ export const OP = [
   },
   {
     name: 'Jessica Pope',
-    website: null,
+    // website: 'https://jessepope.dev/',
+    website: 'jessepope.dev',
     email: 'jessica.pope.co@gmail.com',
     github: 'https://github.com/JdPope',
     linkedin: 'https://www.linkedin.com/in/jessica-pope-77903033/',
