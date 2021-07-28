@@ -20,11 +20,12 @@ export const OP = [
   },
   {
     name: 'Kelsey Oshiro', // Only Spans
-    website: null,
-    email: null,
-    github: null,
-    linkedin: null,
-    medium: null,
+    // website: 'https://kelseyoshiro.com/',
+    website: 'kelseyoshiro.com',
+    email: 'kelsocode@gmail.com',
+    github: 'https://github.com/kelseymosh',
+    linkedin: 'https://www.linkedin.com/in/kelseyoshiro/',
+    medium: 'https://kelseymosh.medium.com/',
   },
   {
     name: 'Bryan Oyloe', // Git Forked
@@ -38,10 +39,10 @@ export const OP = [
   {
     name: 'Jordan Panasewicz', // Illicit Syntax
     website: null,
-    email: null,
-    github: null,
-    linkedin: null,
-    medium: null,
+    email: 'jbpanasewicz@gmail.com',
+    github: 'https://github.com/JorPan',
+    linkedin: 'linkedin.com/in/jordan-panasewicz',
+    medium: 'https://jorpantech.medium.com/',
   },
   {
     name: 'Kyle Peterson',

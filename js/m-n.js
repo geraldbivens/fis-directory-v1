@@ -20,9 +20,9 @@ export const MN = [
   {
     name: 'Matthew Malecki', // Only Spans
     website: null,
-    email: null,
-    github: null,
-    linkedin: null,
+    email: 'mmalecki4@gmail.com',
+    github: 'https://github.com/matthewmjm',
+    linkedin: 'https://www.linkedin.com/in/matthewjmalecki/',
     medium: null,
   },
   {
@@ -36,26 +36,27 @@ export const MN = [
   {
     name: 'Music Meier', // Only Spans
     website: null,
-    email: null,
-    github: null,
-    linkedin: null,
+    email: 'musicm987@gmail.com',
+    github: 'https://github.com/MusicMeier',
+    linkedin: 'https://www.linkedin.com/in/musicmeier/',
     medium: null,
   },
   {
     name: 'Augie Menos', // Illicit Syntax
     website: null,
-    email: null,
+    email: 'augie.menos@gmail.com',
     github: null,
-    linkedin: null,
+    linkedin: 'https://www.linkedin.com/in/augie-menos/',
     medium: null,
   },
   {
     name: 'Paige Lucas Miles', // Illicit Syntax
-    website: null,
-    email: null,
-    github: null,
-    linkedin: null,
-    medium: null,
+    // website: 'http://paige.lucas-miles.com/',
+    website: 'paige.lucas-miles.com',
+    email: 'paige@lucas-miles.com',
+    github: 'https://github.com/paigelucasmiles',
+    linkedin: 'https://www.linkedin.com/in/paigelmiles/',
+    medium: 'https://paigemiles.medium.com/',
   },
   {
     name: 'Michael Navoy', // Run Time Terrors
@@ -99,11 +100,11 @@ export const MN = [
     medium: null,
   },
   {
-    name: 'Johnny Noriega', // Only Spans
+    name: 'Jon Noriega', // Only Spans
     website: null,
-    email: null,
-    github: null,
-    linkedin: null,
+    email: 'noriega331@gmail.com',
+    github: 'https://github.com/Jon-Noriega',
+    linkedin: 'https://www.linkedin.com/in/jonathannoriega/',
     medium: null,
   },
   {
