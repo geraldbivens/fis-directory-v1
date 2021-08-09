@@ -52,7 +52,8 @@ export const GH = [
   },
   {
     name: 'Sam Gold', // Hip Hip Arrays
-    website: null,
+    // website: 'https://samgolddev.tech/',
+    website: 'samgolddev.tech',
     email: 'samgolddev@gmail.com',
     github: 'https://github.com/sgold57',
     linkedin: 'https://www.linkedin.com/in/samgold57/',

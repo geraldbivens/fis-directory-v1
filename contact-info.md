@@ -172,7 +172,7 @@ Bob Whitmer
 
 ## Juicy Functions 2/1/21
 
-Mell Basham
+Mellissa Basham (Mell)
 Nate Croteau
 Kyle Davis
 Jamon Dixon
@@ -207,6 +207,16 @@ Jo Siciliano
 Haley Warson
 
 ## Team 404 4/26/21
+Tanner Creque
+Christopher Diamond
+Brandon Fields
+Keith Funk
+Greg Hughes
+Danny Irwin
+Jay Ni
+Mandy Parson
+Michael Ramirez
+Tony Roscioli
 
 ## Misc
 
