@@ -47,6 +47,15 @@ export const OP = [
     website: null,
   },
   {
+    name: 'Mandy Parson',
+    // cohort: 'Team 404',
+    email: 'mandykparson@gmail.com',
+    github: 'https://github.com/mandykparson',
+    linkedin: 'https://www.linkedin.com/in/mandy-parson/',
+    medium: 'https://mandykparson.medium.com/',
+    website: 'https://mandy-parson-portfolio.herokuapp.com/',
+  },
+  {
     name: 'Kyle Peterson',
     // cohort: null,
     email: 'kpete2017@gmail.com',

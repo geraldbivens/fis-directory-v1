@@ -11,6 +11,16 @@ export const IJ = [
     website: 'https://www.marybethdev.com/',
   },
   {
+    name: 'Danny Irwin',
+    // codepen: 'https://codepen.io/Dirwin',
+    // cohort: 'Team 404',
+    email: 'dirwin123@gmail.com',
+    github: 'https://github.com/dannyirwin',
+    linkedin: 'https://www.linkedin.com/in/dannyirwin/',
+    medium: null,
+    website: 'https://dannyirwin.github.io/PersonalWebpage/',
+  },
+  {
     name: 'Zachary Jacobs',
     // cohort: 'Notorious Git',
     email: 'zprogrammer@icloud.com',

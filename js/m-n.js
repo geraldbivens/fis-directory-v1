@@ -102,6 +102,15 @@ export const MN = [
     website: null,
   },
   {
+    name: 'Jay Ni',
+    // cohort: 'Team 404',
+    email: 'inbox@jayni.dev',
+    github: 'https://github.com/kongjieni',
+    linkedin: 'https://www.linkedin.com/in/jay-ni/',
+    medium: null,
+    website: null,
+  },
+  {
     name: 'Marissa Nolan',
     // cohort: 'Juicy Functions',
     email: 'ritz1484@cs.com',

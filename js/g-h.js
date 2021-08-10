@@ -238,4 +238,13 @@ export const GH = [
     medium: null,
     website: null,
   },
+  {
+    name: 'Greg Hughes',
+    // cohort: 'Team 404',
+    email: 'ghughes610@gmail.com',
+    github: 'https://github.com/catman237',
+    linkedin: 'https://www.linkedin.com/in/greg-hughes-ba2aa497/',
+    medium: null,
+    website: null,
+  },
 ];

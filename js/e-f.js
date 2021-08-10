@@ -47,6 +47,15 @@ export const EF = [
     website: null,
   },
   {
+    name: 'Brandon Fields',
+    // cohort: 'Team 404',
+    email: 'brandonefields@gmail.com',
+    github: 'https://github.com/brandonefields',
+    linkedin: 'https://www.linkedin.com/in/brandoneugenefields/',
+    medium: 'https://brandonefields.medium.com/',
+    website: 'https://brandonefieldsportfolio.netlify.app/',
+  },
+  {
     name: 'Brian Firooz',
     // cohort: null,
     email: 'brianfirooz@mac.com',
@@ -65,6 +74,15 @@ export const EF = [
     linkedin: 'https://www.linkedin.com/in/chrisfollen/',
     medium: null,
     website: 'www.chrisfollen.com',
+  },
+  {
+    name: 'Keith Funk',
+    // cohort: 'Team 404',
+    email: 'keith.c.funk@gmail.com',
+    github: 'https://github.com/Sunset05',
+    linkedin: 'https://www.linkedin.com/in/keith-funk/',
+    medium: null,
+    website: null,
   },
   {
     name: 'Tyler Funk',

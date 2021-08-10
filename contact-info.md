@@ -207,32 +207,33 @@ Jo Siciliano
 Haley Warson
 
 ## Team 404 4/26/21
-Tanner Creque
-Christopher Diamond
-Brandon Fields
-Keith Funk
-Greg Hughes
-Danny Irwin
-Jay Ni
-Mandy Parson
-Michael Ramirez
-Tony Roscioli
+
+√ Tanner Creque
+√ Christopher Diamond
+√ Brandon Fields
+√ Keith Funk
+√ Greg Hughes
+√ Danny Irwin
+√ Jay Ni
+√ Mandy Parson
+√ Michael Ramirez
+√ Tony Roscioli
 
 ## Misc
 
-Joshua Blackham
+<!-- Joshua Blackham
 Louis Leffler
 Zachary Mayle
 Derek Turner
-Cassandra Whitty
+Cassandra Whitty -->
 
-Austin Burke
+<!-- Austin Burke
 https://austinburke.dev/
 https://github.com/aburk3
 https://www.linkedin.com/in/austin-burke/
-aburk3@gmail.com
+aburk3@gmail.com -->
 
-Adam Chernitsky
+<!-- Adam Chernitsky
 Zack Claar
 Sarah Daniels
 Kari Ferenczy https://medium.com/@klferenczy
@@ -244,4 +245,4 @@ Kevin Ruggiero https://medium.com/@kevinbruggiero
 Jack Spyek https://medium.com/@jpsypek
 Jared Stromberg https://medium.com/@jaredstromberg
 Finn Thye https://finnthye.medium.com/
-Kendall Willard https://kendallsblog.home.blog/
+Kendall Willard https://kendallsblog.home.blog/ -->

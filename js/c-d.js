@@ -110,6 +110,15 @@ export const CD = [
     medium: null,
     website: null,
   },
+  {
+    name: 'Tanner Creque',
+    // cohort: Team 404,
+    email: 'tanner.creque@gmail.com',
+    github: 'https://github.com/tannercreque/',
+    linkedin: 'https://www.linkedin.com/in/tanner-creque-24121620a/',
+    medium: null,
+    website: null,
+  },
   // {
   //   name: 'Cristina Cristobal',
   //   cohort: null,
@@ -137,15 +146,7 @@ export const CD = [
     medium: null,
     website: null,
   },
-  {
-    name: "D'Arcy Draper",
-    // cohort: 'Only Spans',
-    email: null,
-    github: null,
-    linkedin: null,
-    medium: null,
-    website: null,
-  },
+
   {
     name: 'Mike De La Rosa',
     // cohort: 'Notorious Git',
@@ -174,6 +175,15 @@ export const CD = [
     website: null,
   },
   {
+    name: 'Christopher Diamond',
+    // cohort: 'Team 404',
+    email: 'diamond.chris.3@gmail.com',
+    github: 'https://github.com/cdiamond3',
+    linkedin: 'https://www.linkedin.com/in/chrisdiamondeng/',
+    medium: null,
+    website: null,
+  },
+  {
     name: 'AJ Diaz',
     // cohort: null,
     email: 'alexanderjessediaz@gmail.com',
@@ -191,6 +201,15 @@ export const CD = [
     github: 'https://github.com/Jamondixon',
     linkedin: 'https://www.linkedin.com/in/jamondixon/',
     medium: 'https://jamondixon.medium.com/',
+    website: null,
+  },
+  {
+    name: "D'Arcy Draper",
+    // cohort: 'Only Spans',
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
     website: null,
   },
   {
