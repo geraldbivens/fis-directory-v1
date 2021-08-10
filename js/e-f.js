@@ -20,6 +20,15 @@ export const EF = [
     website: null,
   },
   {
+    name: 'Austin Evans',
+    // cohort: 'Empryers',
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+    website: null,
+  },
+  {
     name: 'Sam Evans',
     // cohort: 'Run Time Terrors',
     email: null,

@@ -66,7 +66,7 @@ export const OP = [
   },
   {
     name: 'Kyle Peterson',
-    // cohort: null,
+    // cohort: 'Empryers',
     email: 'kpete2017@gmail.com',
     github: 'https://github.com/kpete2017',
     linkedin: 'https://www.linkedin.com/in/kyle-petersen-27259b18b/',

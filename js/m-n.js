@@ -2,6 +2,15 @@
 
 export const MN = [
   {
+    name: 'Logan McGuire',
+    // cohort: 'Empryers',
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+    website: null,
+  },
+  {
     name: 'Daniel Madera',
     // cohort: 'Git Forked',
     email: 'dmadera0@gmail.com',
@@ -18,6 +27,16 @@ export const MN = [
     linkedin: 'https://www.linkedin.com/in/denise-magner/',
     medium: null,
     website: null,
+  },
+  {
+    name: 'Jared Matta',
+    // cohort: 'Die Prying',
+    email: 'cherokeedreemer@gmail.com',
+    github: 'https://github.com/AlteredArt',
+    linkedin: 'https://www.linkedin.com/in/jared-matta/',
+    medium: 'https://cherokeedreemer.medium.com/',
+    // twitter: 'https://twitter.com/jared_matta',
+    website: 'https://jared-matta.web.app/',
   },
   {
     name: 'Matthew Malecki',
@@ -125,6 +144,15 @@ export const MN = [
     email: 'ritz1484@cs.com',
     github: 'https://github.com/LittleRedButton7',
     linkedin: 'https://www.linkedin.com/in/marissanolan1/',
+    medium: null,
+    website: null,
+  },
+  {
+    name: 'Jason Nordheim',
+    // cohort: 'Empryers',
+    email: null,
+    github: null,
+    linkedin: null,
     medium: null,
     website: null,
   },

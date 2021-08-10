@@ -21,6 +21,15 @@ export const QR = [
     website: 'https://stevemr77.github.io/my_first_website/',
   },
   {
+    name: 'Will Reeves',
+    // cohort: 'Empryers',
+    email: 'stevemr77@gmail.com',
+    github: 'https://github.com/stevemr77',
+    linkedin: 'https://www.linkedin.com/in/stevemr77/',
+    medium: null,
+    website: 'https://stevemr77.github.io/my_first_website/',
+  },
+  {
     name: 'Alice Richardson',
     // cohort:'JSON Derulo',
     email: 'Paradafaii28@gmail.com',

@@ -12,6 +12,7 @@ export const KL = [
   },
   {
     name: 'Haley Kelling',
+    // cohort: 'Empryers',
     email: 'haley@kellings.com',
     github: 'https://github.com/haleykelling',
     linkedin: 'https://www.linkedin.com/in/haley-kelling/',
@@ -25,6 +26,15 @@ export const KL = [
     github: 'https://github.com/paigekellydev',
     linkedin: 'https://www.linkedin.com/in/paige-kelly-denver/',
     // linkedin: 'https://www.linkedin.com/in/paigekellydev/',
+    medium: null,
+    website: null,
+  },
+  {
+    name: 'Bryce Kennedy',
+    // cohort: 'Empryers',
+    email: null,
+    github: null,
+    linkedin: null,
     medium: null,
     website: null,
   },

@@ -9,17 +9,17 @@ Aug 26, 2019 Arrayliens
 Oct 7, 2019 Hashketeers
 Nov 19, 2019 Bits Please
 Jan 6, 2020 Die Prying
-Feb 17, 2020 JSON Derulo
-Mar 30, 2020 Notorious Git
-May 11, 2020 The Empryer Strikes Back
-June 22, 2020 Run Time Terrors
-Aug 3, 2020 Git Forked
-Sept 14, 2020 Only Spans
-Oct 26 - Feb 18, 2020 Illicit Syntax
+Feb 17 - May 28, 2020 JSON Derulo
+Mar 30 - July 9, 2020 Notorious Git
+May 11 - 2020 The Empryer Strikes Back
+June 22 - 2020 Run Time Terrors
+Aug 3 - Nov 12, 2020 Git Forked
+Sept 14, 2020 - Jan 8, 2021 Only Spans
+Oct 26, 2020 - Feb 18, 2021 Illicit Syntax
 Dec 7, 2020 - April 21, 2021 Hip Hip Array
 Feb 1 - May 13, 2021 Juicy Functions
 Mar 15 - June 24, 2021 Hackstreet Boiz
-Apr 26, 2021 Team 404
+Apr 26 - Aug 5, 2021 Team 404
 June 7, 2021 New Friends
 
 ## Die Prying
@@ -56,19 +56,19 @@ June 7, 2021 New Friends
 
 ## Notorious Git
 
-Ryan Anderson
-Katie Clark
-Mike De La Rosa
-Hannah Drury
-Nolan Dyke
-David Fertitta
-James Giosmas
-Lydia Gregory
-Zachary Jacobs
-Lisa Jung
-Austin Kohler
-JT Lu
-Denise Magner
+√ Ryan Anderson
+√ Katie Clark
+√ Mike De La Rosa
+√ Hannah Drury
+√ Nolan Dyke
+√ David Fertitta
+√ James Giosmas
+√ Lydia Gregory
+√ Zachary Jacobs
+√ Lisa Jung
+√ Austin Kohler
+√ JT Lu
+√ Denise Magner
 √ Iuliia Saprykina
 √ Daniel Steed
 √ Ashley Winters
@@ -77,8 +77,8 @@ Denise Magner
 ## Empryers
 
 Adrian Avila
-Austin Evans
 Jordan Buysse
+Austin Evans
 Gregg Garrison
 Andrew Hawley
 Haley Kelling

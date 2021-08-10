@@ -57,6 +57,15 @@ export const ST = [
     website: null,
   },
   {
+    name: 'Scott Singer',
+    // cohort: 'Empryers',
+    email: null,
+    github: null,
+    linkedin: null,
+    medium: null,
+    website: null,
+  },
+  {
     name: 'Alexander Sherwin',
     // cohort: 'Juicy Functions',
     email: 'alx.sherwin@gmail.com',
