@@ -221,11 +221,9 @@ Haley Warson
 
 ## Misc
 
-<!-- Joshua Blackham
-Louis Leffler
+<!-- Louis Leffler
 Zachary Mayle
-Derek Turner
-Cassandra Whitty -->
+Derek Turner -->
 
 <!-- Austin Burke
 https://austinburke.dev/

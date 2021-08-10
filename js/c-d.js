@@ -59,11 +59,11 @@ export const CD = [
   {
     name: 'Eric Christine',
     // cohort: 'Only Spans',
-    email: null,
-    github: null,
-    linkedin: null,
-    medium: null,
-    website: null,
+    email: 'ericjchristine@gmail.com',
+    github: 'https://github.com/Eric-Christine',
+    linkedin: 'https://www.linkedin.com/in/eric-christine/',
+    medium: 'https://eric-christine.medium.com/',
+    website: 'https://ericchristine.com/',
   },
   {
     name: 'Zack Claar',

@@ -20,6 +20,15 @@ export const WX = [
     website: null,
   },
   {
+    name: 'Cassandra Whitty',
+    // cohort: null,
+    email: 'cassandraallexwhitty@gmail.com',
+    github: 'https://github.com/cassandrawhitty',
+    linkedin: 'https://www.linkedin.com/in/cassandra-whitty-0a184a1a4/',
+    medium: null,
+    website: 'https://cassandrawhitty.com/',
+  },
+  {
     name: 'Amber Williams',
     // cohort: null,
     email: 'awilliams1234@live.com',

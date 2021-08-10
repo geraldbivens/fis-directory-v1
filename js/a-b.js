@@ -93,6 +93,15 @@ export const AB = [
     website: null,
   },
   {
+    name: 'Katie Bittner',
+    // cohort: null,
+    email: null,
+    github: null,
+    linkedin: 'https://www.linkedin.com/in/katiebittner/',
+    medium: null,
+    website: null,
+  },
+  {
     name: 'Gerald Bivens',
     // cohort:'Hip Hip Arrays',
     email: 'geraldbivens@gmail.com',

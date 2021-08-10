@@ -29,12 +29,12 @@ export const MN = [
     website: null,
   },
   {
-    name: 'Junior Medina',
+    name: 'Gerardo Medina',
     // cohort: 'Only Spans',
-    email: null,
-    github: null,
-    linkedin: null,
-    medium: null,
+    email: 'jr.medina1412@gmail.com',
+    github: 'https://github.com/JR1412594',
+    linkedin: 'https://www.linkedin.com/in/jrmedina1412/',
+    medium: 'https://jr-medina1412.medium.com/',
     website: null,
   },
   {
