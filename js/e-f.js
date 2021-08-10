@@ -2,70 +2,77 @@
 
 export const EF = [
   {
-    name: 'Jason Easterly', // Only Spans
-    website: null,
+    name: 'Jason Easterly',
+    // cohort: 'Only Spans',
     email: null,
     github: null,
     linkedin: null,
     medium: null,
+    website: null,
   },
   {
-    name: 'Sam Evans', // Run Time Terrors
-    website: null,
+    name: 'Sam Evans',
+    // cohort: 'Run Time Terrors',
     email: null,
     github: null,
     linkedin: null,
     medium: null,
+    website: null,
   },
   {
-    name: 'Nathan Fedzen', // Hip Hip Arrays
-    website: null,
+    name: 'Nathan Fedzen',
+    // cohort: 'Hip Hip Arrays',
     email: 'nathanfedzen@gmail.com',
     github: 'https://github.com/nfedzen',
     linkedin: 'https://www.linkedin.com/in/nathan-fedzen/',
     medium: null,
+    website: null,
   },
   {
-    name: 'Carlos Fernandez', // Run Time Terrors
-    website: null,
+    name: 'Carlos Fernandez',
+    // cohort: 'Run Time Terrors',
     email: null,
     github: null,
     linkedin: null,
     medium: null,
+    website: null,
   },
   {
-    name: 'David Fertitta', // Notorious Git
-    website: null,
+    name: 'David Fertitta',
+    // cohort: 'Notorious Git',
     email: 'davidj.fertitta@gmail.com',
     github: null,
     linkedin: 'https://www.linkedin.com/in/david-fertitta-99298715b/',
     medium: null,
+    website: null,
   },
   {
     name: 'Brian Firooz',
-    website: null,
+    // cohort: null,
     email: 'brianfirooz@mac.com',
     github: null,
     linkedin: 'https://www.linkedin.com/in/brian-firooz/',
     medium: null,
     // twitter: 'https://twitter.com/brianfirooz',
+    website: null,
   },
   {
-    name: 'Chris Follen', // Juicy Functions
-    // website: 'www.chrisfollen.com',
-    website: 'chrisfollen.com',
+    name: 'Chris Follen',
+    // cohort: 'Juicy Functions',
     email: 'christopher.follen@gmail.com',
+    // email: 'chris@chrisfollen.com',
     github: 'https://github.com/chrisfollen',
     linkedin: 'https://www.linkedin.com/in/chrisfollen/',
     medium: null,
-    // email: 'chris@chrisfollen.com',
+    website: 'www.chrisfollen.com',
   },
   {
     name: 'Tyler Funk',
-    website: null,
+    // cohort: null,
     email: null,
     github: null,
     linkedin: 'https://www.linkedin.com/in/tylerfunk/',
     medium: null,
+    website: null,
   },
 ];

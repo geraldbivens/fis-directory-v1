@@ -2,126 +2,139 @@
 
 export const MN = [
   {
-    name: 'Daniel Madera', // Git Forked
-    website: null,
+    name: 'Daniel Madera',
+    // cohort: 'Git Forked',
     email: 'dmadera0@gmail.com',
     github: 'https://github.com/dmadera0',
     linkedin: 'https://www.linkedin.com/in/daniel-madera-925b4987/',
     medium: null,
+    website: null,
   },
   {
-    name: 'Denise Magner', // Notorious Git
-    website: null,
+    name: 'Denise Magner',
+    // cohort: 'Notorious Git',
     email: 'deerenae@gmail.com',
     github: 'https://github.com/deerenae',
     linkedin: 'https://www.linkedin.com/in/denise-magner/',
     medium: null,
+    website: null,
   },
   {
-    name: 'Matthew Malecki', // Only Spans
-    website: null,
+    name: 'Matthew Malecki',
+    // cohort: 'Only Spans',
     email: 'mmalecki4@gmail.com',
     github: 'https://github.com/matthewmjm',
     linkedin: 'https://www.linkedin.com/in/matthewjmalecki/',
     medium: null,
+    website: null,
   },
   {
-    name: 'Junior Medina', // Only Spans
-    website: null,
+    name: 'Junior Medina',
+    // cohort: 'Only Spans',
     email: null,
     github: null,
     linkedin: null,
     medium: null,
+    website: null,
   },
   {
-    name: 'Music Meier', // Only Spans
-    website: null,
+    name: 'Music Meier',
+    // cohort: 'Only Spans',
     email: 'musicm987@gmail.com',
     github: 'https://github.com/MusicMeier',
     linkedin: 'https://www.linkedin.com/in/musicmeier/',
     medium: null,
+    website: null,
   },
   {
-    name: 'Augie Menos', // Illicit Syntax
-    website: null,
+    name: 'Augie Menos',
+    // cohort: 'Illicit Syntax',
     email: 'augie.menos@gmail.com',
     github: null,
     linkedin: 'https://www.linkedin.com/in/augie-menos/',
     medium: null,
+    website: null,
   },
   {
-    name: 'Paige Lucas Miles', // Illicit Syntax
-    // website: 'http://paige.lucas-miles.com/',
-    website: 'paige.lucas-miles.com',
+    name: 'Paige Lucas Miles',
+    // cohort: 'Illicit Syntax',
     email: 'paige@lucas-miles.com',
     github: 'https://github.com/paigelucasmiles',
     linkedin: 'https://www.linkedin.com/in/paigelmiles/',
     medium: 'https://paigemiles.medium.com/',
+    website: 'http://paige.lucas-miles.com/',
   },
   {
-    name: 'Michael Navoy', // Run Time Terrors
-    website: null,
+    name: 'Michael Navoy',
+    // cohort: 'Run Time Terrors',
     email: 'mnavoy4@gmail.com',
     github: 'https://github.com/mnavoy4',
     linkedin: 'https://www.linkedin.com/in/michael-navoy/',
     medium: 'https://medium.com/@mnavoy4',
+    website: null,
   },
   {
-    name: 'William Neal', // Hip Hip Arrays
-    website: null,
+    name: 'William Neal',
+    // cohort: 'Hip Hip Arrays',
     email: 'wln.develops@gmail.com',
+    // email: 'william.neal83@gmail.com',
     github: 'https://github.com/Jawnny5',
     linkedin: 'https://www.linkedin.com/in/william-neal1283/',
     medium: 'https://wln-develops.medium.com/',
-    // william.neal83@gmail.com
+    website: null,
   },
   {
-    name: 'Brett Needham', // Hip Hip Arrays
-    website: null,
+    name: 'Brett Needham',
+    // cohort: 'Hip Hip Arrays',
     email: 'brettneedham88@gmail.com',
     github: 'https://github.com/brettneedham88',
     linkedin: 'https://www.linkedin.com/in/brettneedham88/',
     medium: 'https://brettneedham88.medium.com/',
+    website: null,
   },
   {
-    name: 'Michael Newman', // Die Prying
-    website: null,
+    name: 'Michael Newman',
+    // cohort: 'Die Prying',
     email: null,
     github: 'https://github.com/coloradohokie',
     linkedin: 'https://www.linkedin.com/in/michael-newman-denver/',
     medium: null,
+    website: null,
   },
   {
-    name: 'Marissa Nolan', // Juicy Functions
-    website: null,
+    name: 'Marissa Nolan',
+    // cohort: 'Juicy Functions',
     email: 'ritz1484@cs.com',
     github: 'https://github.com/LittleRedButton7',
     linkedin: 'https://www.linkedin.com/in/marissanolan1/',
     medium: null,
+    website: null,
   },
   {
-    name: 'Jon Noriega', // Only Spans
-    website: null,
+    name: 'Jon Noriega',
+    // cohort: 'Only Spans',
     email: 'noriega331@gmail.com',
     github: 'https://github.com/Jon-Noriega',
     linkedin: 'https://www.linkedin.com/in/jonathannoriega/',
     medium: null,
+    website: null,
   },
   {
-    name: 'Adam Nowland', // Juicy Functions
-    // website: 'https://www.adam-nowland.com/',
-    website: 'adam-nowland.com',
+    name: 'Adam Nowland',
+    // cohort: 'Juicy Functions',
     email: 'acnowland@gmail.com',
     github: 'https://github.com/acnowland',
     linkedin: 'https://www.linkedin.com/in/adam-nowland/',
     medium: null,
+    website: 'https://www.adam-nowland.com/',
   },
   {
-    name: 'Obinna Nwabia', // Hip Hip Arrays
-    website: null,
+    name: 'Obinna Nwabia',
+    // cohort: 'Hip Hip Arrays',
     email: 'valinevite@gmail.com',
     github: 'https://github.com/coremand',
     linkedin: 'https://www.linkedin.com/in/obinna-nwabia-3245b268/',
     medium: null,
+    website: null,
   },
 ];

@@ -43,7 +43,7 @@ for (const user of users) {
   website.classList.add('website');
   if (user.website === null) website.classList.add('hide');
   website.innerHTML = `<a href="https://${user.website}/" target="_blank" rel="noreferrer noopener">
-    ${user.website}
+    Portfolio
   </a>`;
 
   const contactInfoList = document.createElement('ul');
@@ -52,25 +52,25 @@ for (const user of users) {
   const email = document.createElement('li');
   if (user.email === null) email.classList.add('hide');
   email.innerHTML = `<a href="mailto: ${user.email}">
-    <img src="/assets/graphics/email.png" width="20" height="20" title="Email" />
+    <img src="/assets/graphics/email.png" width="16" height="16" title="Email" />
   </a>`;
 
   const github = document.createElement('li');
   if (user.github === null) github.classList.add('hide');
   github.innerHTML = `<a href="${user.github}" target="_blank" rel="noreferrer noopener">
-    <img src="/assets/graphics/github.png" width="20" height="20" title="GitHub" />
+    <img src="/assets/graphics/github.png" width="16" height="16" title="GitHub" />
   </a>`;
 
   const linkedin = document.createElement('li');
   if (user.linkedin === null) linkedin.classList.add('hide');
   linkedin.innerHTML = `<a href="${user.linkedin}" target="_blank" rel="noreferrer noopener">
-    <img src="/assets/graphics/linkedin.png" width="20" height="20" title="LinkedIn" />
+    <img src="/assets/graphics/linkedin.png" width="16" height="16" title="LinkedIn" />
   </a>`;
 
   const medium = document.createElement('li');
   if (user.medium === null) medium.classList.add('hide');
   medium.innerHTML = `<a href="${user.medium}" target="_blank" rel="noreferrer noopener">
-    <img src="/assets/graphics/medium.png" width="20" height="20" title="Medium" />
+    <img src="/assets/graphics/medium.png" width="16" height="16" title="Medium" />
   </a>`;
 
   contactInfoList.append(email, github, linkedin, medium);
