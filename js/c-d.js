@@ -21,7 +21,7 @@ export const CD = [
   },
   {
     name: 'Todd Carlson',
-    // cohort: null,
+    // cohort: JSON Derulo,
     // dev: 'https://dev.to/toddster79',
     email: 'todd.carlson3030@me.com',
     github: 'https://github.com/toddster79',
@@ -185,7 +185,7 @@ export const CD = [
   },
   {
     name: 'AJ Diaz',
-    // cohort: null,
+    // cohort: JSON Derulo,
     email: 'alexanderjessediaz@gmail.com',
     github: 'https://github.com/alexanderjessediaz',
     linkedin: 'https://www.linkedin.com/in/alexander-jesse-diaz/',
@@ -223,7 +223,7 @@ export const CD = [
   },
   {
     name: 'Kristine Du',
-    // cohort: null,
+    // cohort: JSON Derulo,
     email: 'kristine.a.du@gmail.com',
     github: 'https://github.com/kadrianne',
     linkedin: 'https://www.linkedin.com/in/kristine-du/',

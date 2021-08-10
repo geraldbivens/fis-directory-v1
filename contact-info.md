@@ -41,18 +41,18 @@ June 7, 2021 New Friends
 
 ## JSON Derulo
 
-Katie Belanger
-Todd Carlson
-AJ Diaz
-Kristine Du
-Rachel Emmer
-Tyler Funk
-Joe Gelay
-Brandon Green
-Jonathan Higger
-Matt Mrozewski
-Jack Perry
-Parada Richardson
+√ Katie Belanger
+√ Todd Carlson
+√ AJ Diaz
+√ Kristine Du
+√ Rachel Emmer
+√ Tyler Funk
+√ Joe Gelay
+√ Brandon Green
+√ Jonathan Higger
+√ Matt Mrozewski
+√ Jack Perry
+√ Parada Richardson
 
 ## Notorious Git
 

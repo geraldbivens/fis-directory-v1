@@ -65,6 +65,15 @@ export const MN = [
     website: 'http://paige.lucas-miles.com/',
   },
   {
+    name: 'Matt Mrozewski',
+    // cohort:'JSON Derulo',
+    email: 'mmrozews@gmail.com',
+    github: 'https://github.com/mmrozewski',
+    linkedin: 'https://www.linkedin.com/in/mrozewskisoftware/',
+    medium: null,
+    website: null,
+  },
+  {
     name: 'Michael Navoy',
     // cohort: 'Run Time Terrors',
     email: 'mnavoy4@gmail.com',

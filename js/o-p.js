@@ -56,6 +56,15 @@ export const OP = [
     website: 'https://mandy-parson-portfolio.herokuapp.com/',
   },
   {
+    name: 'Jack Perry',
+    // cohort:'JSON Derulo',
+    email: 'jack.e.perry@outlook.com',
+    github: 'https://github.com/japerry911',
+    linkedin: 'https://www.linkedin.com/in/jack-e-perry/',
+    medium: 'https://jack72828383883.medium.com/',
+    website: 'http://www.thejackperry.com/',
+  },
+  {
     name: 'Kyle Peterson',
     // cohort: null,
     email: 'kpete2017@gmail.com',

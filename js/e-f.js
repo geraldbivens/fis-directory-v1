@@ -11,6 +11,15 @@ export const EF = [
     website: null,
   },
   {
+    name: 'Rachel Emmer',
+    // cohort:'JSON Derulo',
+    email: 'rachelaemmer@gmail.com',
+    github: 'https://github.com/rachelemmer',
+    linkedin: 'https://www.linkedin.com/in/rachelaemmer/',
+    medium: null,
+    website: null,
+  },
+  {
     name: 'Sam Evans',
     // cohort: 'Run Time Terrors',
     email: null,
@@ -86,9 +95,9 @@ export const EF = [
   },
   {
     name: 'Tyler Funk',
-    // cohort: null,
-    email: null,
-    github: null,
+    // cohort: JSON Derulo,
+    email: 'tyler.j.funk2@gmail.com',
+    github: 'https://github.com/tfunk2',
     linkedin: 'https://www.linkedin.com/in/tylerfunk/',
     medium: null,
     website: null,

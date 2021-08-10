@@ -66,6 +66,15 @@ export const AB = [
     website: null,
   },
   {
+    name: 'Katie Belanger',
+    // cohort:'JSON Derulo',
+    email: 'belangerkat@gmail.com',
+    github: 'https://github.com/belangerkat',
+    linkedin: 'https://www.linkedin.com/in/belangerkatie/',
+    medium: null,
+    website: null,
+  },
+  {
     name: 'Nyaradzo Bere',
     // cohort:'Run Time Terrors',
     email: 'nybe5598@colorado.edu',
