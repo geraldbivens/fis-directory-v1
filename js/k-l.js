@@ -32,11 +32,11 @@ export const KL = [
   {
     name: 'Bryce Kennedy',
     // cohort: 'Empryers',
-    email: null,
-    github: null,
-    linkedin: null,
+    email: 'bryce@brycekennedy.net',
+    github: 'https://github.com/btken88',
+    linkedin: 'https://www.linkedin.com/in/bryce-kennedy/',
     medium: null,
-    website: null,
+    website: 'https://brycekennedy.net/',
   },
   {
     name: 'Shelley (Brook) Kershaw',

@@ -59,10 +59,10 @@ export const ST = [
   {
     name: 'Scott Singer',
     // cohort: 'Empryers',
-    email: null,
-    github: null,
-    linkedin: null,
-    medium: null,
+    email: 'ssinger303@gmail.com',
+    github: 'https://github.com/Sc0tticus',
+    linkedin: 'https://www.linkedin.com/in/scottlsinger/',
+    medium: 'https://medium.com/@ssinger303',
     website: null,
   },
   {

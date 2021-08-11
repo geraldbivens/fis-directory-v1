@@ -22,9 +22,9 @@ export const WX = [
   {
     name: 'Bob Whitmer',
     // cohort: 'Empryers',
-    email: null,
+    email: 'rjwhitmercc@gmail.com',
     github: null,
-    linkedin: null,
+    linkedin: 'https://www.linkedin.com/in/rjwhitmer/',
     medium: null,
     website: null,
   },

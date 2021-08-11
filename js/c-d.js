@@ -206,9 +206,9 @@ export const CD = [
   {
     name: "D'Arcy Draper",
     // cohort: 'Only Spans',
-    email: null,
+    email: 'darcyjdraper@gmail.com',
     github: null,
-    linkedin: null,
+    linkedin: 'https://www.linkedin.com/in/darcydraper3/',
     medium: null,
     website: null,
   },

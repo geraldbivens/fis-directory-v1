@@ -76,20 +76,20 @@ June 7, 2021 New Friends
 
 ## Empryers
 
-Adrian Avila
-Jordan Buysse
-Austin Evans
-Gregg Garrison
-Andrew Hawley
-Haley Kelling
-Bryce Kennedy
-Logan McGuire
-Jason Nordheim
-Kyle Petersen
-Will Reeves
+√ Adrian Avila
+√ Jordan Buysse
+√ Austin Evans
+√ Gregg Garrison
+√ Andrew Hawley
+√ Haley Kelling
+√ Bryce Kennedy
+√ Logan McGuire
+√ Jason Nordheim
+√ Kyle Petersen
+√ Will Reeves
 √ Justin Sabath
-Scott Singer
-Bob Whitmer
+√ Scott Singer
+√ Bob Whitmer
 
 ## Run Time Terrors 6/22/20 - 10/1/20
 
