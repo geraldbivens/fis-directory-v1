@@ -42,7 +42,7 @@ export const OP = [
     // cohort: 'Illicit Syntax',
     email: 'jbpanasewicz@gmail.com',
     github: 'https://github.com/JorPan',
-    linkedin: 'linkedin.com/in/jordan-panasewicz',
+    linkedin: 'https://www.linkedin.com/in/jordan-panasewicz',
     medium: 'https://jorpantech.medium.com/',
     website: null,
   },

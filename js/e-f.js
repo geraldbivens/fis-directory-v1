@@ -32,7 +32,7 @@ export const EF = [
     name: 'Sam Evans',
     // cohort: 'Run Time Terrors',
     email: 'evans.sam.t@gmail.com',
-    github: null,
+    github: 'https://github.com/evansst',
     linkedin: 'https://www.linkedin.com/in/evansst/',
     medium: null,
     website: null,

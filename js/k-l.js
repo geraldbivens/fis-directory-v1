@@ -59,11 +59,12 @@ export const KL = [
   {
     name: 'Austin Kohler',
     // cohort: 'Notorious Git',
+    // dev: 'https://dev.to/austinckohler',
     email: 'austinckohler@gmail.com',
     github: null,
-    linkedin: null,
+    linkedin: 'https://www.linkedin.com/in/austin-kohler/',
     medium: null,
-    website: null,
+    website: 'https://austinckohler.github.io/unit_9/',
   },
   {
     name: 'Allen Lea',
@@ -103,10 +104,10 @@ export const KL = [
   {
     name: 'Marcos Lipic',
     // cohort: 'Only Spans',
-    email: null,
-    github: null,
-    linkedin: null,
-    medium: null,
+    email: 'mjlipic.37@gmail.com',
+    github: 'https://github.com/Marcoslipic',
+    linkedin: 'https://www.linkedin.com/in/marcos-lipic/',
+    medium: 'https://marcos-lipic.medium.com/',
     website: null,
   },
   {
@@ -122,7 +123,7 @@ export const KL = [
     name: 'Matt Long',
     // cohort: 'Run Time Terrors',
     email: 'mdlong34@gmail.com',
-    github: null,
+    github: 'https://github.com/MattLong34',
     linkedin: 'https://www.linkedin.com/in/mattlong34/',
     medium: 'https://mattlong34.medium.com/',
     website: 'https://matt-long.dev/',

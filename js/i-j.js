@@ -42,9 +42,9 @@ export const IJ = [
   {
     name: 'Kevin Johnson',
     // cohort: 'Illicit Syntax',
-    email: null,
-    github: null,
-    linkedin: null,
+    email: 'Kevin.Michael805@gmail.com',
+    github: 'https://github.com/Kevin805',
+    linkedin: 'https://www.linkedin.com/in/kevin-johnson805/',
     medium: null,
     website: null,
   },
