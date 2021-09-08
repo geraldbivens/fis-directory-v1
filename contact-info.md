@@ -172,39 +172,39 @@ June 7, 2021 New Friends
 
 ## Juicy Functions 2/1/21
 
-Mellissa Basham (Mell)
-Nate Croteau
-Kyle Davis
-Jamon Dixon
-Chris Follen
-Nick Gray
-Nathan Gusky
-Phil Haines
-Tara Harwood
-Mary Beth Ingram
-Phong Lo
-Marissa Nolan
-Adam Nowland
-Marnie Robinson
-Reed Roffis
-Blake Runyon
-Diana Rybikov
-Alexander Sherwin
-Benton Westergaard
-Steven Yi
+√ Mellissa Basham (Mell)
+√ Nate Croteau
+√ Kyle Davis
+√ Jamon Dixon
+√ Chris Follen
+√ Nick Gray
+√ Nathan Gusky
+√ Phil Haines
+√ Tara Harwood
+√ Mary Beth Ingram
+√ Phong Lo
+√ Marissa Nolan
+√ Adam Nowland
+√ Marnie Robinson
+√ Reed Roffis
+√ Blake Runyon
+√ Diana Rybikov
+√ Alexander Sherwin
+√ Benton Westergaard
+√ Steven Yi
 
 ## Hackstreet Boiz 3/15/21
 
-Joshua Blackham
-Matt Bonebrake
-David Henderson
-Jesse Houser
-Paige Kelly
-Eric Lee
-Steven Ly
-Megan Ritchie
-Jo Siciliano
-Haley Warson
+√ Joshua Blackham
+√ Matt Bonebrake
+√ David Henderson
+√ Jesse Houser
+√ Paige Kelly
+√ Eric Lee
+√ Steven Ly
+√ Megan Ritchie
+√ Jo Siciliano
+√ Haley Warson
 
 ## Team 404 4/26/21
 
@@ -221,8 +221,7 @@ Haley Warson
 
 ## Misc
 
-<!-- Louis Leffler
-Zachary Mayle
+<!-- Zachary Mayle
 Derek Turner -->
 
 <!-- Austin Burke

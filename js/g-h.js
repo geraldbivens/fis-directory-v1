@@ -86,11 +86,11 @@ export const GH = [
   {
     name: 'Sydney Goldberg',
     // cohort: 'Only Spans',
-    email: null,
-    github: null,
-    linkedin: null,
+    email: 'sydney.goldberg@outlook.com',
+    github: 'https://github.com/sydneygold',
+    linkedin: 'https://www.linkedin.com/in/sydney-goldberg-32b9751b0/',
     medium: null,
-    website: null,
+    website: 'https://sydneygoldberg-dev.web.app/',
   },
   {
     name: 'Jeff Golden',
@@ -107,9 +107,9 @@ export const GH = [
   {
     name: 'Brian Gordon',
     // cohort: 'Illicit Syntax',
-    email: null,
-    github: null,
-    linkedin: null,
+    email: 'gordonbrian16@gmail.com',
+    github: 'https://github.com/bgordon8',
+    linkedin: 'https://www.linkedin.com/in/bgordon8/',
     medium: null,
     website: null,
   },
