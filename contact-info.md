@@ -22,6 +22,30 @@ Mar 15 - June 24, 2021 Hackstreet Boiz
 Apr 26 - Aug 5, 2021 Team 404
 June 7, 2021 New Friends
 
+## Arrayliens
+
+Aaron Martinez
+Andrew Thiessen
+Arina Victor
+Arlene George
+Benjamin Pham
+Catherine Clause
+Christopher Sexton
+Cody Shaben
+Colin Alexander
+Damon Self
+Daniel Sanchez
+Elizabeth Tong
+Gage Thornberry
+Joseph Gailey
+Katie Wokasch
+Martin Milius
+Mohamad Farahmandif
+
+Amanda Rodgers ?
+Danika Butterfield ?
+Priscilla Firpo ?
+
 ## Die Prying
 
 √ Tissiana Alves
