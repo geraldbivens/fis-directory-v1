@@ -233,8 +233,9 @@ Priscilla Firpo ?
 ## Team 404 4/26/21
 
 √ Tanner Creque
+Dane Dawson
 √ Christopher Diamond
-√ Brandon Fields
+√ Brandon Fields (Brandon Eugene Fields)
 √ Keith Funk
 √ Greg Hughes
 √ Danny Irwin
@@ -242,6 +243,14 @@ Priscilla Firpo ?
 √ Mandy Parson
 √ Michael Ramirez
 √ Tony Roscioli
+
+## denpm install 6/7/21
+
+Jacob Harvey
+Joe Milius
+John Shellabarger
+Steve Vaughn
+Ivan Weisner
 
 ## Misc
 
